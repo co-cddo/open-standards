@@ -1,4 +1,4 @@
-# The standard for Cross platform character encoding profile
+# The Standard for Cross platform character encoding profile
 
 Updated: 2016-05-20
 
