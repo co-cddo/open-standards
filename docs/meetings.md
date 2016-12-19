@@ -61,7 +61,7 @@ The board agreed that the:
 
 ***
 
-### [2015‐10‐23 Data Panel meeting](2015‐10‐23-Open-Standards-Board)
+### [2015‐10‐23 Data Panel meeting](2015‐10‐23-Data-Panel-meeting)
 This meeting was scheduled to evaluate the following proposals:
 
 *   Multi agency incident transfer (MAIT): Multi Agency Incident Transfer Version 0.2.2
@@ -78,7 +78,7 @@ The Data Panel agreed that: 
 
 ***
 
-### [2015‐10‐22 Data Panel meeting](2015‐10‐22-Open-Standards-Board)
+### [2015‐10‐22 Data Panel meeting](2015‐10‐22-Data-Panel-meeting)
 
 This meeting was held to evaluate the following proposals:
 
@@ -94,7 +94,7 @@ The Data panel:
 
 ***
 
-### [2015‐04‐13 Data Panel meeting](2015‐04‐13-Open-Standards-Board)
+### [2015‐04‐13 Data Panel meeting](2015‐04‐13-Data-Panel-meeting)
 
 The panel evaluated proposals on language tags and country codes at this meeting. Paul Downey of GDS acted as challenge owner for these proposals and presented them to the panel.
 
@@ -123,8 +123,8 @@ The Board agreed:
 
 ***
 
-### [2014‐09‐22 Technical Panel meeting actions](2014‐09‐22-Open-Standards-Board)
+### [2014‐09‐22 Technical Panel meeting actions](2014‐09‐22-Technical-Panel-meeting)
 
 ***
 
-### [2014‐09‐22 Data Panel meeting actions](2014‐09‐22-Open-Standards-Board)
+### [2014‐09‐22 Data Panel meeting actions](2014‐09‐22-Data-Panel-meeting)
