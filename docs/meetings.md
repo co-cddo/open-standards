@@ -123,8 +123,8 @@ The Board agreed:
 
 ***
 
-### [2014‐09‐22 Technical Panel meeting actions](2014‐09‐22-Technical-Panel-meeting)
+### [2014‐09‐22 Technical Panel meeting actions](2014‐09‐22-Technical-Panel-meeting-actions)
 
 ***
 
-### [2014‐09‐22 Data Panel meeting actions](2014‐09‐22-Data-Panel-meeting)
+### [2014‐09‐22 Data Panel meeting actions](2014‐09‐22-Data-Panel-meeting-actions)
