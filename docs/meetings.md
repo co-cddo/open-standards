@@ -17,7 +17,8 @@ AOB
 2. IATI to be recommended to the Open Standards Board
 
 ***
-### [2016‐04‐25 Open Standards Board](2016‐04‐25 Open Standards Board)
+
+### [2016‐04‐25 Open Standards Board](2016‐04‐25-Open-Standards-Board)
 The Board met to consider:
 
 1. Proposals for two challenges :
@@ -37,7 +38,7 @@ The board agreed that:
 
 ***
 
-### [[2015‐11‐13 Open Standards Board]]
+### [2015‐11‐13 Open Standards Board](2015‐11‐13-Open-Standards-Board)
 
 The board met to consider:
 
@@ -60,7 +61,7 @@ The board agreed that the:
 
 ***
 
-### [[2015‐10‐23 Data Panel meeting]]
+### [2015‐10‐23 Data Panel meeting](2015‐10‐23-Open-Standards-Board)
 This meeting was scheduled to evaluate the following proposals:
 
 *   Multi agency incident transfer (MAIT): Multi Agency Incident Transfer Version 0.2.2
@@ -77,7 +78,7 @@ The Data Panel agreed that: 
 
 ***
 
-### [[2015‐10‐22 Data Panel meeting]]
+### [2015‐10‐22 Data Panel meeting](2015‐10‐22-Open-Standards-Board)
 
 This meeting was held to evaluate the following proposals:
 
@@ -93,13 +94,13 @@ The Data panel:
 
 ***
 
-### [[2015‐04‐13 Data Panel meeting]]
+### [2015‐04‐13 Data Panel meeting](2015‐04‐13-Open-Standards-Board)
 
 The panel evaluated proposals on language tags and country codes at this meeting. Paul Downey of GDS acted as challenge owner for these proposals and presented them to the panel.
 
 ***
 
-### [[2015‐04‐27 Open Standards Board]]
+### [2015‐04‐27 Open Standards Board](2015‐04‐27-Open-Standards-Board)
 
 This was the fifth Open Standards Board, two proposals were tabled for discussion:
 
@@ -118,12 +119,12 @@ The Board agreed:
 
 *** 
 
-### [[2014‐10‐06 Open Standards Board]]
+### [2014‐10‐06 Open Standards Board](2014‐10‐06-Open-Standards-Board)
 
 ***
 
-### [[2014‐09‐22 Technical Panel meeting actions]]
+### [2014‐09‐22 Technical Panel meeting actions](2014‐09‐22-Open-Standards-Board)
 
 ***
 
-### [[2014‐09‐22 Data Panel meeting actions]]
+### [2014‐09‐22 Data Panel meeting actions](2014‐09‐22-Open-Standards-Board)
