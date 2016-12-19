@@ -51,11 +51,9 @@ There are three parts to PDF/A:
 
 Software supporting PDF/A is widely available:
 
-*   *   [List of compliant applications compiled by AIIM](http://www.aiim.org/Research-and-Publications/Standards/Articles/PDFA-Compliant-Products)
-
-    *   [List of compliant products listed by the PDF Association](http://www.pdfa.org/products/?c=1988)
-
-    *   [Products for PDF/A conversion and validation](http://www.pdfa.org/products/?c=1988) - including tools which check compliance with PDF/A-1, PDF/A-2 and PDF/A-3
+*   [List of compliant applications compiled by AIIM](http://www.aiim.org/Research-and-Publications/Standards/Articles/PDFA-Compliant-Products)
+*   [List of compliant products listed by the PDF Association](http://www.pdfa.org/products/?c=1988)
+*   [Products for PDF/A conversion and validation](http://www.pdfa.org/products/?c=1988) - including tools which check compliance with PDF/A-1, PDF/A-2 and PDF/A-3
 
 Based on published information:
 
@@ -66,8 +64,6 @@ Based on published information:
 *   [Microsoft Office](http://blogs.msdn.com/b/officeinteroperability/archive/2013/04/04/microsoft-support-for-pdf.aspx) – if saving as PDF/A, Office uses PDF version 1.4\. Word, PowerPoint, Excel are compliant with PDF/A-1a
 
 PDF/A-1 is therefore more widely supported than PDF/A-2 for the creation of PDF files in some commonly used office productivity software. However, PDF/A-2 is the more recent version. PDF/A-2 is backwards compatible, i.e. all valid PDF/A-1 documents should also be compliant with PDF/A-2\. However PDF/A-2 compliant files will not necessarily be PDF/A-1 compliant.
-
-
 
 ### Advice to the Board:
 
@@ -87,7 +83,7 @@ In practice the differences between valid HTML4 and HTML5 are small. HTML5 intro
 
 People who are already producing valid, semantic HTML4 should already be close to producing valid HTML5\. The tools people use to consume the code would generally be interoperable.
 
-When it becomes a W3C recommendation, HTML5 may not include validation methods similar to those currently available for HTML 4.01 and XHTML 1.0\.
+When it becomes a W3C recommendation, HTML5 may not include validation methods similar to those currently available for HTML 4.01 and XHTML 1.0.
 
 ### Advice to the Board:
 
@@ -96,11 +92,8 @@ The viewing government documents profile should have a review date of January 20
 Statement should be added to the standards profile:
 
 *   Use HTML5 (either the HTML or XML formulation) for all new services that produce documents for viewing online.
-
 *   For services currently using HTML 4.01 or XHTML 1.0 for producing government documents for viewing, there is no requirement to invest in converting to HTML5 merely to comply with this standards profile.
-
 *   For HTML5, HTML 4.01 and XHTML 1.0 documents, the primary consideration is the production of valid HTML.
-
 
 # 2\. Sharing and collaborating proposal: additional advice
 
@@ -113,11 +106,8 @@ Formatted text, images, charts, graphs and media for a specific purpose or topic
 Documents are **not**:
 
 *   tabular data (which may be represented in different formats, including CSV)
-
 *   complex structured data (which are currently found in formats such as XML, JSON, RDF)
-
 *   all of the pages on the web (although some documents may be published on the web and are separate content, designed to be consumed as stand-alone documents, such as [HTML publications](https://insidegovuk.blog.gov.uk/2013/03/28/html-publications/))
-
 *   a mini-application (such as using office productivity tools to create business applications, calculators, financial models or smart forms)
 
 ### Approach to structured data
@@ -139,13 +129,9 @@ The Technical Standards Panel asked a number of departments about their use of s
 The examples of uses of spreadsheets we found included:
 
 *   Tabular data and statistics, such as lists in csv format
-
 *   Presentational, such as those with graphs and images embedded to help visualise data in reports
-
 *   Applications, such as pensions calculators and forms for collecting and processing data
-
 *   A user interface layer for integration with business intelligence tools for analytics, reporting and visualisations
-
 *   Letter creation through mail merging
 
 Some of these use cases require formulae and/or macro scripting.
@@ -154,7 +140,7 @@ Some of these use cases require formulae and/or macro scripting.
 
 ODF 1.1 does not specify a spreadsheet formula language, which it leaves to be defined in implementations. In practice, most ODF 1.1 implementations converge on interoperable spreadsheet formulas. However, where there are implementations that do not converge, static values are stored in line with the requirement of the ODF specification, but this can have an impact on users who expect the formulas to be active. Software extensions are therefore needed to allow the import and export of ODF with working formula.
 
-ODF 1.2 standardised on spreadsheet formulas using OpenFormula. Spreadsheet formula is implemented in the most common office applications supporting ODF 1.2 including Microsoft Office 2013, LibreOffice and OpenOffice. Most implementations support ODF 1.2\.
+ODF 1.2 standardised on spreadsheet formulas using OpenFormula. Spreadsheet formula is implemented in the most common office applications supporting ODF 1.2 including Microsoft Office 2013, LibreOffice and OpenOffice. Most implementations support ODF 1.2.
 
 For the uses cases in government which require the calculation of formulas, the Technical Standards Panel recommends preferring use of ODF 1.2\. In the event that users only have access to tools which implement ODF 1.1, departments should consider the software extensions available. GDS will provide guidance for departments and for users of formulas.  
 
@@ -177,13 +163,9 @@ on the macro security issue, possibly in the form of application specific guidan
 With regards to the standards profile for sharing and collaborating on government documents, the following statements should be added to the profile:
 
 *   where users need to calculate formulas in spreadsheets, ODF 1.2 (or later) is preferred for offline editable documents
-
 *   macros should not be included in any publicly shared documents
-
 *   within government, macros should be avoided
-
 *   With regards to using formulas in spreadsheets, GDS will provide detailed guidance for departments. It will include the following advice:  If as part of transition to ODF 1.2 (or later), users only have access to tools which implement ODF 1.1, departments should consider using software extensions as long as these do not have a negative effect on interoperability.
-
 *   With regards to macros, GDS should provide advice (e.g. through the Service Design Manual) on better tools and methods to help departments to move away from macro applications, which are often risky and unscalable. GDS should also work with CESG to provide guidance  wherever possible and a more appropriate tool used that supports cross-platform interoperability
 
 
@@ -216,14 +198,13 @@ Add a statement to the standards profile:
 
 *   A software extension should not be implemented unless the impact of implementation on the interoperability of a document is understood to cause minimal issues for usability across platforms.
 
-
 ## 2.4 Validation and implementation guidance for ODF
 
 Reference implementations which are developed as part of the standard, are not part of the requirements for an OASIS or ISO standard. The de-facto reference implementations that are considered to represent the standard most fully are OpenOffice and LibreOffice.
 
 For checking validity of an ODF document, there is no tool that will say with absolute certainty that the file is correct as not everything lends itself to machine testing and all validators check only certain conformance criteria.
 
-At the core of ODF is XML with a RelaxNG schema definition language. This can be validated by XML validators for ODF 1.1 and 1.2\. Several validators are available, for example [Office-o-tron](https://code.google.com/p/officeotron//) and the [ODF Validator](http://odf-validator.rhcloud.com/) from [Apache OpenOffice](http://incubator.apache.org/odftoolkit/conformance/ODFValidator.html), which is the latest and includes ODF 1.2 validation.
+At the core of ODF is XML with a RelaxNG schema definition language. This can be validated by XML validators for ODF 1.1 and 1.2. Several validators are available, for example [Office-o-tron](https://code.google.com/p/officeotron//) and the [ODF Validator](http://odf-validator.rhcloud.com/) from [Apache OpenOffice](http://incubator.apache.org/odftoolkit/conformance/ODFValidator.html), which is the latest and includes ODF 1.2 validation.
 
 These validators can range in their functionality from reporting if the XML is valid to other checks, for example, that all used images are correct image file types and included in the zipped archive. Validators are recognised by other office suites and considered suitable, though not complete, validators.
 
@@ -232,13 +213,9 @@ We have tested a variety of basic documents in the ODF Validator, producing some
 The Technical Standards Panel considers that to assist with selecting or implementing ODF conformant tools, departments will need:
 
 *   an up-to-date, platform independent ODF validator
-
 *   a clearer reporting mechanism on compliance issues in validators
-
 *   an understanding of the limitations of machine testing
-
 *   a set of reference documents for comparing compliance of tools
-
 
 ### Advice to the Board:
 
@@ -277,18 +254,13 @@ Whilst the possibility that a third party had IPR relating to the original work 
 Whilst a measure of risk is unavoidable, we consider that there are several levels of comfort that can be relied upon in relation to ODF:
 
 *   A number of companies involved in the development of the standard, and hence who are most likely to hold relevant patents, have either covenanted not to assert their essential patents or to licence them on royalty free terms for the ODF.
-
 *   Where no declaration has been made but a company has been involved in the OASIS standardisation, the company is obliged by the OASIS policy to provide such commitments.  
-
 *   Whilst it cannot be excluded that third party essential patents may exist, the third party may be considered to be abusing a dominant position contrary to competition law if it fails to licence such a patent on reasonable terms.
-
 *   The lack of claims to date and the wide adoption of the standard by large companies and other bodies.
 
 Naturally, commitments to licence and non-assertion covenants, and protection thereby conferred, only apply to implementing the ODF standard within the ambit of, and subject to the terms of, the commitments.
 
 The Technical Standards Panel and the Government Digital Service are not assuming an obligation of responsibility to any third parties. A third party should seek their own independent legal advice on the risks involved.
-
-
 
 ### Advice to the Board:
 
