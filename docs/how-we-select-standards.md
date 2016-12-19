@@ -27,8 +27,6 @@ Government technology officials are:
 *   the people in government responsible for making sure digital technologies and systems meet the needs of the service users and department employee
 *   responsible for implementing adopted standards profiles, which are the outcome of the Standards Hub process
 
-
-
 ### Challenge owners 
 
 Challenge owners:
@@ -38,8 +36,6 @@ Challenge owners:
 *   are suggested by the group of government technology officials and are appointed by the Office of the Chief Technology Officer
 *   are usually from government bodies but they may also be from not-for profit organisations that have an interest in the field in question
 
-
-
 ### Standards panels 
 
 Panels work with challenge owners to evaluate proposals and advise the Open Standards Board on how they meet the needs described in a challenge.
@@ -47,8 +43,6 @@ Panels work with challenge owners to evaluate proposals and advise the Open Stan
 The Technical Standards Panel focuses on challenges that relate to open interfaces and protocols for software interoperability, including document formats. The Data Standards Panel focuses on the semantic aspects of sharing and managing data and information. For challenges that cover both technical and data aspects, the chairs will agree which panel will lead the work and may set up cross-panel working groups
 
 Panels are formed of expert users from government or not-for-profit organisations, as well as experts who volunteer through the Standards Hub and are selected for their skills and expertise.
-
-
 
 ### Open Standards Board 
 
@@ -61,8 +55,6 @@ The board includes expert users drawn from government and not-for-profit organis
 *   are implementable, mature and supported by the market
 *   have been adequately researched and that the impact of adoption is understood
 *   support [open data](https://www.gov.uk/service-manual/technology/open-data.html) and are aligned with the [Open Standards Principles](https://www.gov.uk/government/publications/open-standards-principles/open-standards-principles) and the Government’s IT/digital strategies
-
-
 
 ## Stages involved
 
@@ -93,8 +85,6 @@ The process of selecting and implementing open standards is open and transparent
 
 [Suggest a challenge](https://github.com/alphagov/tech-and-data-standards/issues/new) to tell us where using open standards might solve a current problem or improve an existing service. You can also comment on others’ suggestions, and they’ll be able to comment on yours.
 
-
-
 ### Response stage 
 
 Who’s involved:
@@ -109,8 +99,6 @@ You can review the [current challenges](https://github.com/alphagov/tech-and-dat
 How you can get involved:
 
 We’ll select some suggestions to become challenges. We want your ideas on what standards or approaches would help solve the problems these challenges address. You can also give feedback on the needs described in the challenge - are there any changes that you think should be considered?
-
-
 
 ### Proposal stage 
 
@@ -145,9 +133,9 @@ The challenge owner will let you know what is expected if you’re invited along
 You can get involved in assessing proposed standards profiles through:
 
 *   workshops and events
-*   by [volunteering to be a member of a standards panel](Volunteering)
+*   by [volunteering to be a member of a standards panel](volunteering)
 
-Everyone involved in working groups, workshops and panels is asked to declare any interests at the start of each session. Any interests are published on the Standards Hub in the [meeting notes](Meetings).
+Everyone involved in working groups, workshops and panels is asked to declare any interests at the start of each session. Any interests are published on the Standards Hub in the [meeting notes](meetings).
 
 ### Solution stage 
 
@@ -157,4 +145,4 @@ Who’s involved:
 
 The board will decide whether to recommend compulsory use of a standards profile, with the final decision resting with the government’s Chief Technology Officer.
 
-Everyone involved in the Open Standards Board is asked to declare any interests at the start of each session. Any interests are published on the Standards Hub in the [meeting notes](Meetings).
+Everyone involved in the Open Standards Board is asked to declare any interests at the start of each session. Any interests are published on the Standards Hub in the [meeting notes](meetings).
