@@ -17,7 +17,7 @@ AOB
 2. IATI to be recommended to the Open Standards Board
 
 ***
-### [[2016‐04‐25 Open Standards Board]]
+### [2016‐04‐25 Open Standards Board](2016‐04‐25 Open Standards Board)
 The Board met to consider:
 
 1. Proposals for two challenges :
