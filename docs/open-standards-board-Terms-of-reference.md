@@ -29,4 +29,4 @@ Meetings with over 60% attendance will be considered quorate.
 
 Chair - the senior responsible owner for Open Standards in the Government. Decisions will be made by the chair and will be based on consensus of the Board.
 
-[[Board members]] - external volunteers, government officials and people from not for profit bodies. They attend each meeting, counsel the chair and reach consensus based agreement on recommendations submitted to the Board from standards panels or working groups. Board Members are expert users.
+[Board members](board-members) - external volunteers, government officials and people from not for profit bodies. They attend each meeting, counsel the chair and reach consensus based agreement on recommendations submitted to the Board from standards panels or working groups. Board Members are expert users.
