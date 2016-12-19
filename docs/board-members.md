@@ -65,7 +65,7 @@ John joined the civil service from the private sector, where he was the head of 
 
 Jeni Tennison is the Technical Director and Deputy CEO of the Open Data Institute. She gained her PhD from the University of Nottingham then worked as an independent consultant, specialising in open data publishing and consumption, before joining the ODI in 2012. Jeni was awarded an OBE for services to technology and open data in the 2014 New Year Honours.<br>
 
-Before joining the ODI, Jeni was the technical architect and lead developer for <a href="http://legislation.gov.uk">legislation.gov.uk</a>. She worked on the early linked data work on <a href="http://data.gov.uk">data.gov.uk</a>, including helping to engineer new standards for publishing statistics as linked data. She continues her work within the UK’s public sector as a member of the Open Standards Board.<br>
+Before joining the ODI, Jeni was the technical architect and lead developer for <a href="http://legislation.gov.uk">legislation.gov.uk</a>. She worked on the early linked data work on <a href="http://data.gov.uk">data.gov.uk</a>, including helping to engineer new standards for publishing statistics as linked data. She continues her work within the UK’s public sector as a member of the Open Standards Board.
 
 Jeni also works on international web standards. She was appointed to serve on the W3C’s Technical Architecture Group from 2011 to 2015 and in 2014 she started to co-chair the W3C’s CSV on the Web Working Group. She also sits on the Advisory Boards for Open Contracting Partnership and the Data Transparency Lab.
 
