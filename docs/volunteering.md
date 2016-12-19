@@ -1,4 +1,4 @@
-The [[Open Standards Board]] aims to select a small set of core standards for government bodies to apply consistently to make services better for users and to keep government IT costs down.
+The [Open Standards Board](open-standards-board) aims to select a small set of core standards for government bodies to apply consistently to make services better for users and to keep government IT costs down.
 
 The Open Standards Board takes advice from groups of expert users who form a Technical Standards Panel and a Data Standards Panel. These panels consider proposed open standards profiles, consistent with the [Open Standards Principles](https://www.gov.uk/government/publications/open-standards-principles/open-standards-principles), and advise the Open Standards Board on whether they meet user and functional needs.
 
@@ -27,10 +27,10 @@ The chair of your panel may also ask if you’d be prepared to put in additional
 We are seeking panels with a balance of technical skills and expertise from a range of sectors. Volunteers with a range of experience covering the following skills are most likely to be selected:
 
 *   Understanding [user needs](https://www.gov.uk/service-manual/user-centered-design/user-needs.html) - a demonstrable understanding of transferring user needs into successful [open standards](https://www.gov.uk/service-manual/making-software/open-standards-and-licensing.html) based implementations.
-*   Specialist domain knowledge - for example developers, technical architects or data specialists with experience of implementing open standards based solutions related to the needs based [[Challenges]] that are currently progressing through the Standards Hub or that may be coming up.
+*   Specialist domain knowledge - for example developers, technical architects or data specialists with experience of implementing open standards based solutions related to the needs based [Challenges](challenges) that are currently progressing through the Standards Hub or that may be coming up.
 *   Putting [interoperability](http://en.wikipedia.org/wiki/Interoperability) into practice - recent implementation experience of interoperable solutions built on open standards.
 *   Making implementation happen - Knowledge and experience in current research or projects relating to open standards implementation, for example in building [reference implementations](http://en.wikipedia.org/wiki/Reference_implementation).
-*   Market awareness - a good understanding and experience of a technology, software or data marketplace and future trends relating to the needs based [[Challenges]] that are currently progressing through the Standards Hub or challenges that may be coming up.
+*   Market awareness - a good understanding and experience of a technology, software or data marketplace and future trends relating to the needs based [Challenges](challenges) that are currently progressing through the Standards Hub or challenges that may be coming up.
 
 As we are looking for a mix of volunteers with different skills and experience for each panel, it won’t necessarily be the most highly skilled applicants in a particular field who are chosen. This is because the panels cover a wide range of topics.
 
