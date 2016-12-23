@@ -18,6 +18,7 @@ email:
 description: 
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  alphagov
+baseurl: tech-and-data-standards
 
 # Build settings
 theme: jekyll-theme-slate
