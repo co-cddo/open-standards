@@ -21,11 +21,6 @@ github_username:  alphagov
 
 # Build settings
 theme: jekyll-theme-slate
-gems:
-  - jekyll-feed
-exclude:
-  - Gemfile
-  - Gemfile.lock
 
 # Collections are groups of pages
 collections:
