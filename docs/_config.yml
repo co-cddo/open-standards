@@ -20,7 +20,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  alphagov
 
 # Build settings
-theme: jekyll-theme-slate
+theme: jekyll-theme-hacker
 gems:
   - jekyll-feed
 exclude:
