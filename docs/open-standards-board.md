@@ -1,3 +1,9 @@
+---
+layout: page
+title: Open Standards Board
+permalink: /open-standards-board
+---
+
 ## Why do we need a Board?
 
 * Our criteria for open standards state that in order to be considered standards must be selected through an open process. We need to meet our own standards.
@@ -50,5 +56,4 @@ Meetings with over 60% attendance will be considered quorate.
 
 ### Roles associated with the Open Standards Board
 * Chair - the Senior Responsible Owner for Open Standards in the Government. Decisions will be made by the chair and will be based on consensus of the Board. The Board will seek advice from specialists.
-
-* Board Members - external volunteers, government officials and not for profit bodies who attend each meeting, counsel the chair and reach consensus based agreement on recommendations submitted to the Board from standards panels or working groups. Board Members are expert users and are expected to attend each meeting.
+* [Board Members](board-members) - external volunteers, government officials and not for profit bodies who attend each meeting, counsel the chair and reach consensus based agreement on recommendations submitted to the Board from standards panels or working groups. Board Members are expert users and are expected to attend each meeting.

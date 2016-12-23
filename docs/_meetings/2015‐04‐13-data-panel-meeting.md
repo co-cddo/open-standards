@@ -1,4 +1,10 @@
-New panel members have joined the Data Standards Panel (Gareth Rushgrove, Andrew Pickford and Matt Wilson). 
+---
+layout: page
+title: 2015-04-13 Data Panel Meeting
+permalink: /meetings/2015-04-13-data-panel-meeting
+---
+
+New panel members have joined the Data Standards Panel (Gareth Rushgrove, Andrew Pickford and Matt Wilson).
 
 The panel evaluated proposals on language tags and country codes at this meeting. Paul Downey of GDS acted as challenge owner for these proposals and presented them to the panel.
 
@@ -72,7 +78,7 @@ The panel would like to feed into a review of the process for selecting standard
 * Magnus Falk, Government Digital Service
 * Paul Downey, Government Digital Service (Challenge Owner)
 * Anisha Ahuja, Government Digital Service (Secretariat)
-* Lawrence Greenwood, , Government Digital Service (Secretariat)
+* Lawrence Greenwood, Government Digital Service (Secretariat)
 
 ### Apologies
 
@@ -83,12 +89,10 @@ The panel would like to feed into a review of the process for selecting standard
 
 ## Challenges discussed at this meeting:
 
-* [Language tags](https://standards.data.gov.uk/challenge/language-tags)</div>
-* [Country codes](https://standards.data.gov.uk/challenge/country-codes)</div>
+* [Language tags](https://standards.data.gov.uk/challenge/language-tags)
+* [Country codes](https://standards.data.gov.uk/challenge/country-codes)
 
-## Responses, Proposals and Standards Profiles discussed at this meeting</div>
+## Responses, Proposals and Standards Profiles discussed at this meeting
 
 *   [Language Tags Proposal](https://standards.data.gov.uk/proposal/language-tags-proposal)
 *   [Country codes proposal](https://standards.data.gov.uk/proposal/country-codes-proposal)
-
-</div>

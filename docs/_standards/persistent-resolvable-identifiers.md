@@ -1,4 +1,8 @@
-# The standard for Persistent resolvable identifiers
+---
+layout: page
+title: The standard for Persistent resolvable identifiers
+permalink: /standards/identifiers
+---
 
 Updated: 2016-05-20
 

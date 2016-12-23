@@ -1,3 +1,9 @@
+---
+layout: page
+title: Challenge Owners
+permalink: /challenge-owners
+---
+
 Challenge owners are appointed by the Office of the Chief Technology Officer. They lead the work to develop proposals, carry out assessments and research, and draft standards profiles in response to challenges on the Standards Hub.
 
 Resources will be collected together here to help challenge owners throughout each phase whilst they work towards selecting open standards for government IT.

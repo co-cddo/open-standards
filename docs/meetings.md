@@ -1,11 +1,17 @@
+---
+layout: page
+title: Open Standards Meetings
+permalink: /meetings/
+---
+
 ## Minutes of previous meetings
 
-### [2016-09-20 Open Standards Panel meeting](2016‐09‐20-Open-Standards-Panel-meeting)
+### [2016-09-20 Open Standards Panel meeting](2016-09-20-open-standards-panel-meeting)
 
 This meeting was held to evaluate the following proposals:
 
-* Open Contracting Data Standard  OCDS
-* Open standard for international development data   International Aid Transparency Initiative (IATI)
+* Open Contracting Data Standard - OCDS
+* Open standard for international development data - International Aid Transparency Initiative (IATI)
 
 AOB
 * How to deal with standard versions changes in the open standards process.
@@ -18,7 +24,7 @@ AOB
 
 ***
 
-### [2016‐04‐25 Open Standards Board](2016‐04‐25-Open-Standards-Board)
+### [2016-04-25 Open Standards Board](2016-04-25-open-standards-board)
 The Board met to consider:
 
 1. Proposals for two challenges :
@@ -38,7 +44,7 @@ The board agreed that:
 
 ***
 
-### [2015‐11‐13 Open Standards Board](2015‐11‐13-Open-Standards-Board)
+### [2015-11-13 Open Standards Board](2015-11-13-open-standards-board)
 
 The board met to consider:
 
@@ -61,7 +67,7 @@ The board agreed that the:
 
 ***
 
-### [2015‐10‐23 Data Panel meeting](2015‐10‐23-Data-Panel-meeting)
+### [2015-10-23 Data Panel meeting](2015-10-23-data-panel-meeting)
 This meeting was scheduled to evaluate the following proposals:
 
 *   Multi agency incident transfer (MAIT): Multi Agency Incident Transfer Version 0.2.2
@@ -78,7 +84,7 @@ The Data Panel agreed that: 
 
 ***
 
-### [2015‐10‐22 Data Panel meeting](2015‐10‐22-Data-Panel-meeting)
+### [2015-10-22 Data Panel meeting](2015-10-22-data-panel-meeting)
 
 This meeting was held to evaluate the following proposals:
 
@@ -94,13 +100,13 @@ The Data panel:
 
 ***
 
-### [2015‐04‐13 Data Panel meeting](2015‐04‐13-Data-Panel-meeting)
+### [2015-04-13 Data Panel meeting](2015-04-13-data-panel-meeting)
 
 The panel evaluated proposals on language tags and country codes at this meeting. Paul Downey of GDS acted as challenge owner for these proposals and presented them to the panel.
 
 ***
 
-### [2015‐04‐27 Open Standards Board](2015‐04‐27-Open-Standards-Board)
+### [2015-04-27 Open Standards Board](2015-04-27-open-standards-board)
 
 This was the fifth Open Standards Board, two proposals were tabled for discussion:
 
@@ -117,14 +123,14 @@ The Board agreed:
 2. The secretariat should investigate copyright of ISO standards and their general interrelationship with IETF specifications. It should also investigate putting a request to ISO for them to consider making language tags and country codes publicly available specifications.
 3. Subject to requested changes to the proposals, ISO 3166-1:2013 and ISO 639-1:2002 must be used in new systems handling data or web content that requires language tags or country codes.
 
-*** 
+***
 
-### [2014‐10‐06 Open Standards Board](2014‐10‐06-Open-Standards-Board)
+### [2014-10-06 Open Standards Board](2014-10-06-open-standards-board)
 
 ***
 
-### [2014‐09‐22 Technical Panel meeting actions](2014‐09‐22-Technical-Panel-meeting-actions)
+### [2014-09-22 Technical Panel meeting actions](2014-09-22-technical-panel-meeting-actions)
 
 ***
 
-### [2014‐09‐22 Data Panel meeting actions](2014‐09‐22-Data-Panel-meeting-actions)
+### [2014-09-22 Data Panel meeting actions](2014-09-22-data-panel-meeting-actions)

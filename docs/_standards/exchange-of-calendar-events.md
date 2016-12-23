@@ -1,4 +1,8 @@
-# The standard for Exchange of calendar events
+---
+layout: page
+title: The standard for Exchange of calendar events
+permalink: /standards/calendar
+---
 
 Updated: 2016-05-20
 

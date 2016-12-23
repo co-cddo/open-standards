@@ -1,3 +1,9 @@
+---
+layout: page
+title: 2015-11-13 Open Standards Board
+permalink: /meetings/2015-11-13-open-standards-board
+---
+
 The board met to consider:
 
 1. recommendations on four proposals:
@@ -29,10 +35,10 @@ A member brought to the attention of the board that a second, separate and incom
 
 The board agreed that it was not possible to implement this proposal without there first being an open registry that allowed the translation of UPRNs. The board agreed that an open register of property/place locations is an important requirement with a well defined user need.
 
-### Action 1: 
+### Action 1:
 All board members to forward their suggestions by 27 November as to how the requirement for an open register for addressing can be met.
 
-### Action 2: 
+### Action 2:
 Paul Downey to take forward a discovery project relating to the creation of an open register for addressing.
 
 ### Action 3:

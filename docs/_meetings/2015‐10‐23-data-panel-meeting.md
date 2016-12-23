@@ -1,3 +1,9 @@
+---
+layout: page
+title: 2015-10-23 Data Panel Meeting
+permalink: /meetings/2015-10-23-data-panel-meeting
+---
+
 This meeting was scheduled to evaluate the following proposals:
 
 *   Multi agency incident transfer (MAIT): Multi Agency Incident Transfer Version 0.2.2
@@ -55,7 +61,7 @@ The panel was concerned that agreeing to this proposal as it stands would cause 
 The Panel also noted that existing guidance on data.gov.uk relating to geographic data would need to be updated if this proposal is adopted by the Open Standards Board. It also requested that further detail be provided in the standards assessment eg links to justify the responses.
 
 ### Actions relating to exchange of location point information
- 
+
 1. The challenge owner to work on an updated version of the proposal with the help of a group of experts from panel. The updated proposal should include information about when to use each standard and a statement in the ‘Additional steps to achieving interoperability’ section about the standard being used to describe the data being declared, where possible.  
 2. If the proposal is adopted by the Open Standards Board, the secretariat team is to request an update to guidance on data.gov.uk  
 3. Challenge owner to provide more detail in justification sections of the standard assessment
@@ -92,7 +98,7 @@ The Panel considered that at present adopting this solution would cause lock-in 
 * Ben Farber, GDS  
 * Lawrence Greenwood, GDS 
 
-### Apologies 
+### Apologies
 * Gareth Rushgrove, Puppet Labs  
 * Graham Peek, Parliament   
 * Anthea Seles, The National Archives  

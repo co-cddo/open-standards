@@ -1,3 +1,9 @@
+---
+layout: page
+title: 2014-09-22 Technical Panel Meeting Actions
+permalink: /meetings/2014-09-22-technical-panel-meeting-actions
+---
+
 The Panel requested that James Penman and the team need to produce a UK profile for CAP which needs to include the following:
 
 *   Guidance on signing the message

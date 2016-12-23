@@ -1,4 +1,8 @@
-# The Standard for Cross platform character encoding profile
+---
+layout: page
+title: The standard for Cross platform character encoding profile
+permalink: /standards/encoding
+---
 
 Updated: 2016-05-20
 

@@ -1,4 +1,8 @@
-# The standard for Exchange of contact information
+---
+layout: page
+title: The standard for Exchange of contact information
+permalink: /standards/contact
+---
 
 Updated: 2016-05-20
 

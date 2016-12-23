@@ -1,3 +1,9 @@
+---
+layout: page
+title: 2014-10-06 Open Standards Board
+permalink: /meetings/2014-10-06-open-standards-board
+---
+
 This was the fourth Open Standards Board, three challenges were tabled for discussion:
 
 *   Exchange of contact information - RFC6350 (vcard)
@@ -36,7 +42,7 @@ The Board requested a change to the assessments to make it clear whether similar
 
 The group discussed current use cases and how, if adopted, they would enable government departments to share calendar invitations and contact details with citizens interacting with the Government or needing information on government-defined events such as Bank Holidays.
 
-### Decision: 
+### Decision:
 The Board advised the chair to adopt vCard and iCalendar as open standards for the exchange of contact information and exchange of calendar information respectively. The chair agreed and adopted the standards profiles.
 
 ## Discussion topic 2: Public emergency alert messaging
@@ -57,7 +63,7 @@ The Board requested the challenge owner to come back with the profile to the Boa
 
 Paul Downey agreed to work on this with the David Barnes and James Penman, the Board agreed that they would not have to own the challenges, but would ask that they find suitable challenge owners.  The challenge owner noted that they will be notifying OASIS of the intention to develop a profile and will secure their expertise in development.
 
-### Decision: 
+### Decision:
 The Board agreed to adopt CAP 1.2, subject to agreement of the UK country profile through the Open Standards Board and completion of additional challenges on a number of CAP's underlying standards. The decision to adopt CAP 1.2 will be reviewed when this additional work is completed.
 
 ## Discussion topic 3: Standards process and Standards Hub
@@ -66,13 +72,13 @@ The Board noted that work was underway by Magnus and Anisha which involved looki
 
 The Board agreed to review the process outside of the next meeting to ensure that the implementation of the process was running before the next Board. Magnus confirmed that user needs and previous feedback had been incorporated in the thinking, which would be shared with Board members.
 
-### Decision: 
+### Decision:
 
 Magnus and Anisha to share the suggested improvements to the standards process with Board members.
 
 ## Discussion topic 4: Open Standards Board - next meeting and call for volunteers
 
-### Decision: 
+### Decision:
 The Chair agreed the next Open Standards Board would be in March 2015; and a call for volunteer members would begin at the end of October 2014.
 
 ## Board members
@@ -100,6 +106,6 @@ Alex Brown, Griffin Brown Digital Publishing; Tim Kelsey, NHS England;  Chris U
 
 ## Challenges discussed at this meeting:
 
-* [Exchange of calendar events](https://standards.data.gov.uk/challenge/exchange-calendar-events)</div>
+* [Exchange of calendar events](https://standards.data.gov.uk/challenge/exchange-calendar-events)
 * [Exchange of contact information](https://standards.data.gov.uk/challenge/exchange-contact-information)
 * [Public emergency alert messaging](https://standards.data.gov.uk/challenge/public-emergency-alert-messaging)

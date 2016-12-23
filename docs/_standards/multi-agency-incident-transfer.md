@@ -1,4 +1,8 @@
-# The standard for Multi agency incident transfer
+---
+layout: page
+title: The standard for Multi agency incident transfer
+permalink: /standards/mait
+---
 
 Updated: 2016-05-20
 

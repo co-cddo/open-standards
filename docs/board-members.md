@@ -1,3 +1,9 @@
+---
+layout: page
+title: Terms and Conditions for Appointment as Open Standards Board Member
+permalink: /board-members
+---
+
 The Board members are:
 
 * Liam Maxwell, National Technology Advisor (Chair)
@@ -12,10 +18,10 @@ The Board members are:
 * Daniel Appelquist,  Samsung Research Institute (UK)
 
 ## Biographies
- 
-### Liam Maxwell, 
 
-Liam Maxwell is the Government's first National Technology Advisor. In this role he drives forward the government’s work on emerging technologies harnessing leading industry expertise through a new council of experts. 
+### Liam Maxwell,
+
+Liam Maxwell is the Government's first National Technology Advisor. In this role he drives forward the government’s work on emerging technologies harnessing leading industry expertise through a new council of experts.
 
 As Chief Technology Officer in GDS he headed a team  responsible for technical leadership across government. He lead the spend control process for IT, which is part of the Efficiency and Reform Group programme to save multiple billions across government.
 
@@ -81,7 +87,7 @@ Chris has an extensive background in technology related policy issues with a car
 
 Chris is active on a number of BSI committees that support international standardisation and regularly represents the UK on national delegations overseas.
 
-### Daniel Appelquist, Government Digital Service 
+### Daniel Appelquist, Government Digital Service
 
 Daniel Appelquist is technical standards lead at Government Digital Service where he leads a community of practice around the use of open standards and the application of the open standards principles for deployments across government. He also co-chairs the Technical Architecture Group in the World Wide Web Consortium, a role he was appointed to in 2013 by Sir Tim Berners-Lee, and he works with the Open Data Institute startup programme.
 

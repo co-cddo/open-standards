@@ -1,4 +1,8 @@
-# The standard for Language Tags
+---
+layout: page
+title: The standard for Language Tags
+permalink: /standards/language
+---
 
 Updated: 2016-05-20
 

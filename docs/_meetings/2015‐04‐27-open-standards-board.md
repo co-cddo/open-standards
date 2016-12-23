@@ -1,3 +1,9 @@
+---
+layout: page
+title: 2015-04-27 Open Standards Board
+permalink: /meetings/2015-04-27-open-standards-board
+---
+
 This was the fifth Open Standards Board, two proposals were tabled for discussion:
 
 1. Language tags
@@ -15,13 +21,13 @@ The Board agreed:
 
 ## Declarations of interest
 
-Before each meeting attendees are asked to declare any interests relating to the topics being covered. Several members declared affiliations to standards bodies such as W3C, ISO’s JTC1 and BSI. All of these are recorded in the Board members’ biographies. No Board members are directly connected with the standards committees responsible for ISO 3166 or ISO 639.  
+Before each meeting attendees are asked to declare any interests relating to the topics being covered. Several members declared affiliations to standards bodies such as W3C, ISO’s JTC1 and BSI. All of these are recorded in the Board members’ biographies. No Board members are directly connected with the standards committees responsible for ISO 3166 or ISO 639.
 
 Paul Downey declared that in addition to being a board member, he is challenge owner for the two proposals under consideration.
 
 ## Discussion topic 1: new members and terms of reference
 
-Magnus began the meeting by welcoming new Board members: Adrian Hepworth, Chris Francis and Daniel Appelquist.  
+Magnus began the meeting by welcoming new Board members: Adrian Hepworth, Chris Francis and Daniel Appelquist.
 
 He also welcomed back Matthew Dovey and Adam Cooper who had been successful in their re-application to the Board.
 
@@ -31,7 +37,7 @@ In answer to a question from the the board about the definition of open standard
 
 ## Discussion topic 2: understanding government documents challenge
 
-Nicholas Oughtibridge presented this suggested challenge to the Board. Nicholas highlighted that this was to seek feedback before the challenge progresses. A previous challenge on this topic had reached proposal stage and was discussed at the [[Open Standards Board in 2013]].  The Board had requested that work was needed on the scope and user needs of the challenge and that a new proposal would be required based on a redefined challenge.
+Nicholas Oughtibridge presented this suggested challenge to the Board. Nicholas highlighted that this was to seek feedback before the challenge progresses. A previous challenge on this topic had reached proposal stage and was discussed at the [Open Standards Board in 2013](2013-05-09-open-standards-board).  The Board had requested that work was needed on the scope and user needs of the challenge and that a new proposal would be required based on a redefined challenge.
 
 Nicholas explained the new suggested challenge was for lightweight metadata to allow decisions to be made on content, importance and security classification. Nicholas stated that in his view it should go through the triage panel again.
 
@@ -44,7 +50,7 @@ The Board discussed the scope in the new suggested challenge and agreed that it 
 
 The challenge should relate to data rather than technical implementation and should include two parts:  the standard(s) for the metadata and the vocabularies. The Board agreed that with further work this would be a good challenge to take through the Standards Hub.
 
-### Decision: 
+### Decision:
 
 Nicholas and Anisha to work with The National Archives to refine the scope of the proposed challenge and to clearly describe two streams, one addressing the data elements and the other the vocabularies.
 
@@ -66,7 +72,7 @@ The ISO process does not document a publicly accessible review period and member
 
 The Board agreed that the ISO standards for codes describing languages and countries would be acceptable to the Board in this case but that for any future challenges, if ISO standards are put forward, the openness will need to be carefully assessed on a case by case basis.
 
-### Action: 
+### Action:
 
 Secretariat to investigate copyright of ISO standards and their general interrelationship with IETF specifications.
 
@@ -86,7 +92,7 @@ Secretariat to investigate putting a request to ISO for language tags and countr
 
 The Board discussed the proposal to divert from ISO 3166 by replacing GB with UK for country codes. The Board disagreed that UK should replace GB as this would fork the standard. It agreed that ISO 3166 must be used, but could be extended to include UK if that is required in an implementation, particularly as it is a reserved code and the European Commission also cites use of UK rather than GB.
 
-### Action: 
+### Action:
 
 Paul Downey to amend the country codes proposal to remove reference to replacing GB with UK.
 
@@ -96,7 +102,7 @@ The scope of the proposals was questioned by the Board. The Board discussed that
 
 The Board debated the merits of each approach and decided that there is less complexity in systems if the same tags are used for data as well as web publishing. If there is a case where this is not the best approach, that could be handled through the exemption process.
 
-### Action: 
+### Action:
 
 Paul Downey to amend the scope of the proposals so that whenever a language tag or country code is required in new systems, the selected standards must be used.
 
@@ -108,7 +114,7 @@ Anisha Ahuja advised the board of the challenges currently in the standards pipe
 
 * Exchange of property information
 * Exchange of location information
-* Understanding government documents  
+* Understanding government documents
 
 There is also a challenge at proposal stage: quantities.
 

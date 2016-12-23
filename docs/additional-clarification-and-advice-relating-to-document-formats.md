@@ -1,7 +1,14 @@
+---
+layout: page
+title: Clarification on Document Formats
+permalink: /document-format-clarification
+---
+
 The Open Standards Board requested additional clarification and advice relating to document formats.
 
-For viewing:
+2014-04-09
 
+For viewing:
 
 1.  Impact of selecting a single profile for PDF/A with regards to tools and authors
 2.  Appropriate wording that describes the approach to proceed with HTML5 whilst ensuring backwards compatibility with HTML 4.01 and XHTML 1.0
@@ -25,27 +32,17 @@ This document also provides a summary of suggested changes to the draft standard
 
 There are three parts to PDF/A:
 
-1.  PDF/A-1 (ISO 19005-1:2005) is based on PDF version 1.4
-
-2.  PDF/A-2 ((ISO 19005-2:2011) is based on PDF version 1.7  (ISO 32000-1)
-
-3.  PDF/A-3 (ISO 19005-3:2012) is based on PDF version 1.7  (ISO 32000-1)
-
-*   PDF 1.4 and PDF 1.7 are normative references for the associated PDF/A profiles.
-
-*   PDFA/2 is based on a more recent version of PDF than PDF/A-1\. It includes some of the new features added with versions 1.5, 1.6 and 1.7 of PDF.
-
-*   Added capabilities in PDFA/2 are:
-
-*   Improvements to tagging for accessibility
-
-*   Compression for smaller file sizes
-
-*   PDF/A-compliant file attachments
-
-*   Support for transparent objects
-
-*   PDF/A-3 - the Board has agreed not to include this profile due to its support for embedding files of other formats.
+1. PDF/A-1 (ISO 19005-1:2005) is based on PDF version 1.4
+2. PDF/A-2 ((ISO 19005-2:2011) is based on PDF version 1.7  (ISO 32000-1)
+3. PDF/A-3 (ISO 19005-3:2012) is based on PDF version 1.7  (ISO 32000-1)
+   * PDF 1.4 and PDF 1.7 are normative references for the associated PDF/A profiles.
+   * PDFA/2 is based on a more recent version of PDF than PDF/A-1\. It includes some of the new features added with versions 1.5, 1.6 and 1.7 of PDF.
+   * Added capabilities in PDFA/2 are:
+      * Improvements to tagging for accessibility
+      * Compression for smaller file sizes
+      * PDF/A-compliant file attachments
+      * Support for transparent objects
+   * PDF/A-3 - the Board has agreed not to include this profile due to its support for embedding files of other formats.
 
 ### Tools
 
@@ -58,16 +55,14 @@ Software supporting PDF/A is widely available:
 Based on published information:
 
 *   [Apache OpenOffice](http://www.openoffice.org/dev_docs/features/3.0/#PDF.2FA_Support) - supports PDF/A-1
-
 *   [LibreOffice](https://help.libreoffice.org/Common/Export_as_PDF) - uses PDF 1.4 and has PDF/A-1a support
+*   [Microsoft Office](http://blogs.msdn.com/b/officeinteroperability/archive/2013/04/04/microsoft-support-for-pdf.aspx) – if saving as PDF/A, Office uses PDF version 1.4. Word, PowerPoint, Excel are compliant with PDF/A-1a
 
-*   [Microsoft Office](http://blogs.msdn.com/b/officeinteroperability/archive/2013/04/04/microsoft-support-for-pdf.aspx) – if saving as PDF/A, Office uses PDF version 1.4\. Word, PowerPoint, Excel are compliant with PDF/A-1a
-
-PDF/A-1 is therefore more widely supported than PDF/A-2 for the creation of PDF files in some commonly used office productivity software. However, PDF/A-2 is the more recent version. PDF/A-2 is backwards compatible, i.e. all valid PDF/A-1 documents should also be compliant with PDF/A-2\. However PDF/A-2 compliant files will not necessarily be PDF/A-1 compliant.
+PDF/A-1 is therefore more widely supported than PDF/A-2 for the creation of PDF files in some commonly used office productivity software. However, PDF/A-2 is the more recent version. PDF/A-2 is backwards compatible, i.e. all valid PDF/A-1 documents should also be compliant with PDF/A-2. However PDF/A-2 compliant files will not necessarily be PDF/A-1 compliant.
 
 ### Advice to the Board:
 
-* To simplify the message for departments, we should specify PDF/A as the standard to be used. This should be constrained in the profile to refer to only PDF/A-1 and PDF/A-2, not PDF/A-3\.
+* To simplify the message for departments, we should specify PDF/A as the standard to be used. This should be constrained in the profile to refer to only PDF/A-1 and PDF/A-2, not PDF/A-3.
 * Through implementation guidance, departments will be advised of potential issues with backwards compatibility if using PDF/A-2 capabilities.
 
 
@@ -95,7 +90,7 @@ Statement should be added to the standards profile:
 *   For services currently using HTML 4.01 or XHTML 1.0 for producing government documents for viewing, there is no requirement to invest in converting to HTML5 merely to comply with this standards profile.
 *   For HTML5, HTML 4.01 and XHTML 1.0 documents, the primary consideration is the production of valid HTML.
 
-# 2\. Sharing and collaborating proposal: additional advice
+# 2. Sharing and collaborating proposal: additional advice
 
 ## 2.1 Definitions
 

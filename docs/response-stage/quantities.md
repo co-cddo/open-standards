@@ -1,3 +1,9 @@
+---
+layout: page
+title: Quantities
+permalink: /response-stage/quantities
+---
+
 ## Title
 A code to robustly identify the scientific units, scale and precision of a scientific quantity found in CSV and other collections.
 

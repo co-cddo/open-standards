@@ -1,6 +1,10 @@
-# The standard for Publishing vacancies
+---
+layout: page
+title: The standard for Publishing vacancies
+permalink: /standards/vacancies
+---
 
-Standard to be used:
+## Standard to be used:
 
 * [JobPosting](https://schema.org/JobPosting)
 

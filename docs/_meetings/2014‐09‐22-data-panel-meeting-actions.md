@@ -1,3 +1,9 @@
+---
+layout: page
+title: 2014-09-22 Data Panel Meeting
+permalink: /meetings/2014-09-22-data-panel-meeting-actions
+---
+
 1. Paul Downey to work with Anisha to provide further context on standard assessment answers, to also provide evidence to support answers and re-submit to the Panel
 2. Knock out questions to be reviewed - should there should be any knock out questions highlighted - Paul Downey to provide details and the Panel to agree in advance of the Open Standards Board
 3. Panel members will receive updates and an opportunity to comment before sent to the Open Standards Board - to be sent 24/09 to panel members

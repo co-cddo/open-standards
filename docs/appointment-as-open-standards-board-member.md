@@ -1,4 +1,8 @@
-# Terms and Conditions for Appointment as Open Standards Board Member
+---
+layout: page
+title: Terms and Conditions for Appointment as Open Standards Board Member
+permalink: /board-member-terms
+---
 
 ## PERIOD OF APPOINTMENT
 

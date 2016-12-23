@@ -1,4 +1,8 @@
-# The standard for Sharing or collaborating with government documents
+---
+layout: page
+title: The standard for Sharing or collaborating with government documents
+permalink: /standards/collaborating
+---
 
 Updated: 2016-05-20
 

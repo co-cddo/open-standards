@@ -1,4 +1,8 @@
-# The standard for Viewing government documents
+---
+layout: page
+title: The standard for Viewing government documents
+permalink: /standards/documents
+---
 
 Updated: 2016-05-20
 

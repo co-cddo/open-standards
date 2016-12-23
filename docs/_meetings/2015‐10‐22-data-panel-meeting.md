@@ -1,3 +1,9 @@
+---
+layout: page
+title: 2015-10-22 Data Panel Meeting
+permalink: /meetings/2015-10-22-data-panel-meeting
+---
+
 This meeting was held to evaluate the following proposals:
 
 *   Publishing vacancies online: JobPosting v2.1
@@ -71,4 +77,4 @@ The Panel deferred discussion of this proposal to another date when the challeng
 
 ## Responses, Proposals and Standards Profiles discussed at this meeting
 
-*   [Publishing vacancies online: proposal](https://standards.data.gov.uk/proposal/publishing-vacancies-online-proposal)
+* [Publishing vacancies online: proposal](https://standards.data.gov.uk/proposal/publishing-vacancies-online-proposal)

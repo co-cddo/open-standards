@@ -1,14 +1,18 @@
+---
+layout: page
+title: 2016-09-20 Open Panel Meeting
+permalink: /meetings/2016-09-20-open-standards-panel-meeting
+---
+
 This meeting was held to evaluate the following proposals:
 
-a. Open Contracting Data Standard OCDS
+1. Open Contracting Data Standard OCDS
+1. Open standard for international development data International Aid Transparency Initiative (IATI)
 
-b. Open standard for international development data International Aid Transparency Initiative (IATI)
+## AOB
 
-AOB
-
-a. How to deal with standard versions changes in the open standards process.
-
-b. The open standards community group.
+1. How to deal with standard versions changes in the open standards process.
+1. The open standards community group.
 
 ## Summary of outcomes
 

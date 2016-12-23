@@ -1,8 +1,14 @@
+---
+layout: page
+title: 2016-04-25 Open Standards Board
+permalink: /meetings/2016-04-25-open-standards-board
+---
+
 The Board met to consider:
 
 1. Proposals for two challenges :
- * public emergency alert messaging
- * publishing vacancies online
+   * public emergency alert messaging
+   * publishing vacancies online
 2. A redrafted challenge for understanding government information.
 3. A fast track in the open standards process for certain standards.
 
@@ -23,7 +29,7 @@ The board was invited to declare any interests; none were raised.
 
 The Board discussed how CAP differs from the Multi Agency Incident Transfer (MAIT) standard. The challenge owner explained that CAP is used in alert messages sent to the public from agencies such as the World Meteorological Organization (WMO). MAIT is intended for communicating between emergency responders.
 
-Board agreed in the [[October 2014 meeting|]] that a UK profile for CAP 1.2 should be defined. The challenge owners explained in a report to the Board that they now recommend *against* a UK profile. The purpose of existing CAP profiles is to constrain the national CAP messages to the requirements of existing alert systems.
+Board agreed in the [October 2014 meeting](2014-09-22-open-standards-board) that a UK profile for CAP 1.2 should be defined. The challenge owners explained in a report to the Board that they now recommend *against* a UK profile. The purpose of existing CAP profiles is to constrain the national CAP messages to the requirements of existing alert systems.
 
 Instead of a national profile the civil contingencies secretariat (CCS) should stand up a committee of UK alert issuing bodies. This committee would formulate and propagate best practice for alert messages based on experience.
 
@@ -31,7 +37,7 @@ The Board debated the need for a specific UK profile. It was decided that althou
 
 During the discussion a member pointed to the CAP IPR statement on the OASIS website. The CAP technical council operates under the RF on RAND Mode of the OASIS IPR Policy, but a notice from a company (Azos) claimed a patent ‘essential to the compliant implementation’ of CAP giving non-exclusive rights but no mention of royalty free license. The board decided that this issue would need to be clarified before the standard could be adopted by government.
 
-### Action 1. 
+### Action 1.
 The challenge owner and the secretariat to work with CCS on the creation of a UK alert issuing bodies forum.
 
 ### Action 2.
@@ -39,7 +45,7 @@ The secretariat to seek clarification of the IPR statement on the OASIS website 
 
 ## Redrafted challenge for understanding government information
 
-The data panel chairman presented the redraft of this challenge which in another form had previously reached the suggestion stage in the Open Standards Process. The original challenge was judged by Board at the [[April 2015 meeting|]] as too wide in its scope.
+The data panel chairman presented the redraft of this challenge which in another form had previously reached the suggestion stage in the Open Standards Process. The original challenge was judged by Board at the [April 2015 meeting](2015-04-27-open-standards-board) as too wide in its scope.
 
 The newly drafted challenge was accepted by the Board to go through the process with its more clearly defined user need. Members suggested that the title of the challenge could be revised to include archival and retrieval and that the meaning of documents in this case should be defined.
 
@@ -48,7 +54,7 @@ The secretariat to work with the challenge owner to revise the title and define 
 
 ## Publishing Vacancies Online
 
-In the [[November 2015 board|]] discussed the schema.org JobPosting schema. This was thought to meet a user need in government for improving job adverts online. The governance of the standards body did not meet the Board’s definition of open however. The chair took an action to write to schema.org’s steering group requesting that it align its processes with the assessment used on the Standards Hub.
+In the [November 2015 board](2015-11-13-open-standards-board) discussed the schema.org JobPosting schema. This was thought to meet a user need in government for improving job adverts online. The governance of the standards body did not meet the Board’s definition of open however. The chair took an action to write to schema.org’s steering group requesting that it align its processes with the assessment used on the Standards Hub.
 
 The board has since received a reply from Dan Brickley of the steering group. The board agreed that this reply went a long way in satisfying the Open Standards Principle of transparency. As a result the Board recommended that the standard be adopted for use in online vacancy advertisements.
 
@@ -68,7 +74,7 @@ The Board noted that changes will need to be made to Standards Hub to enable the
 
 A member mentioned at this stage a related process item of legal issues that need to be taken into account by the process before the Board can approve a standard as open and for use in government.
 
-### Action 4. 
+### Action 4.
 Secretariat to identify the changes required to the Standards Hub to enable the fast track process.
 
 ### Action 5.

@@ -1,4 +1,8 @@
-# The standard for Exchange of location point
+---
+layout: page
+title: The standard for Exchange of location point
+permalink: /standards/location
+---
 
 Updated: 2016-05-20
 
