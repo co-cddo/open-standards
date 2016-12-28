@@ -17,6 +17,7 @@ title: UK Government Standards Hub
 email:
 description: 
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
+markdown: kramdown
 github_username:  alphagov
 baseurl: tech-and-data-standards
 
