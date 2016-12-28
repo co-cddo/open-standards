@@ -41,10 +41,12 @@ Try to keep your layout as simple as possible.  The less you use, the better.
 use three backticks 
 for a block of code 
 ``` `
+
 ```
 This is a muti-line
 block of code
 ```
+
 * Use `> quoted text` to
 
 > Quote something - perhaps a person's comments, or a quote from a standard.
