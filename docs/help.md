@@ -36,7 +36,15 @@ Try to keep your layout as simple as possible.  The less you use, the better.
 
 * Use `*italics*` for *italic text*
 * Use `**bold**` for **bold text**
-* Use `` `backtics` `` for `code`
+* Use `` `backtics` `` for a `single line of code`
+* For multi-line code ` ``` 
+use three backticks 
+for a block of code 
+``` `
+```
+This is a muti-line
+block of code
+```
 * Use `> quoted text` to
 
 > Quote something - perhaps a person's comments, or a quote from a standard.
@@ -68,6 +76,18 @@ To link to a specific section of a different page, `[read the assessment questio
 ### Lists
 
 #### Bullet Lists
+
+```
+* These are
+* List items
+* One `*` followed by one space
+```
+
+This will appear as:
+
+* These are
+* List items
+* One `*` followed by one space
 
 #### Numbered Lists
 
