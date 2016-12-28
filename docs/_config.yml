@@ -20,7 +20,7 @@ github_username: alphagov
 baseurl: /tech-and-data-standards
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: jekyll-theme-slate
 markdown: kramdown
 
 # Collections are groups of pages
