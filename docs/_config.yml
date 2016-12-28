@@ -21,7 +21,7 @@ github_username:  alphagov
 baseurl: tech-and-data-standards
 
 # Build settings
-theme: jekyll-theme-slate
+theme: jekyll-theme-minimal
 
 # Collections are groups of pages
 collections:
