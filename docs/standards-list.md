@@ -6,10 +6,13 @@ permalink: /standards/
 
 This is a list of all the standards which have been approved by the Open Standards Board.
 
-<ul>
-{% for standard in site.standards %}
-  <li>
-    <a href="{{ standard.permalink }}">{{ standard.title }}</a>
-  </li>
-{% endfor %}
-</ul>
+*   [Cross platform character encoding profile](/standards/encoding)
+*   [Exchange of calendar events](/standards/calendar)
+*   [Exchange of contact information](/standards/contact)
+*   [Exchange of location point](/standards/location)
+*   [Language Tags](/standards/language)
+*   [Multi agency incident transfer](/standards/mait)
+*   [Persistent resolvable identifiers](/standards/identifiers)
+*   [Publishing vacancies](/standards/vacancies)
+*   [Sharing or collaborating with government documents](/standards/collaborating)
+*   [Viewing government documents](/standards/documents)
