@@ -1,6 +1,7 @@
 ---
-title: Help
-permalink: /helper
+layout: default
+title: Markdown Help
+permalink: /help
 ---
 
 # Markdown cheatsheet for tech-and-data-standards
@@ -21,8 +22,8 @@ The top of *every* page must contain some basic configuration data.
 
 ```
 ---
-layout: page
-title: Help
+layout: default
+title: Markdown Help
 permalink: /help
 ---
 ```
