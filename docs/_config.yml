@@ -1,6 +1,6 @@
 baseurl: /tech-and-data-standards
 
-theme: jekyll-theme-slate
+theme: jekyll-theme-time-machine
 
 # Collections are groups of pages
 collections:
