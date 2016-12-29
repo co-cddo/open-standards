@@ -1,7 +1,8 @@
 ---
 layout: default
 title: The standard for Language Tags
-permalink: standards/language
+# This lives in the collection /standards/
+permalink: language
 ---
 
 Updated: 2016-05-20
