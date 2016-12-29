@@ -1,7 +1,7 @@
 ---
 layout: default
 title: The standard for Language Tags
-permalink: /standards/language
+permalink: standards/language
 ---
 
 Updated: 2016-05-20
