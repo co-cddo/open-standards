@@ -1,8 +1,8 @@
 ---
-title: Welcome to the Standards Hub
+layout: post
+title: Welcome to the Standards Hub - post layout
 permalink: /
 ---
-
 
 ## Welcome to GitHub Pages
 
