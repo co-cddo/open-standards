@@ -1,1 +1,10 @@
 theme: jekyll-theme-slate
+
+# Collections are groups of pages
+collections:
+  standards:
+    output: true
+    permalink: /standards/:path/
+  meetings:
+    output: true
+    permalink: /meetings/:path/
