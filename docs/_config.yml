@@ -1,3 +1,5 @@
+baseurl: /tech-and-data-standards
+
 theme: jekyll-theme-slate
 
 # Collections are groups of pages
