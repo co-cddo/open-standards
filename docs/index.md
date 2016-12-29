@@ -1,10 +1,10 @@
 ---
-layout: post
+layout: "page"
 title: "Welcome to the Standards Hub - quoted"
 permalink: /
 ---
 
-Using quotes?
+Using quotes for page?
 
 ## Welcome to GitHub Pages
 
