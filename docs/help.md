@@ -32,6 +32,11 @@ permalink: /help
 
 Try to keep your layout as simple as possible.  The less you use, the better.
 
+### Headings 
+
+* For the headline type `# The Headline`
+* For a subheading type `## A Subheading`
+
 ### Formatting
 
 * Use `*italics*` for *italic text*
