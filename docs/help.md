@@ -136,3 +136,11 @@ Use 3 spaces to indent any sub-bullet, like so:
          1. With futher sub-numbers
          1. With futher sub-numbers
             * And so on.
+
+## Style
+
+The theme is directly imported from the [Tech Docs Template](https://github.com/alphagov/tech-docs-template).
+
+Everything in `tech-docs-template/template/source/stylesheets/` has been copied into the local `_sass` directory.
+
+This may need updating if there are major stylistic changes.
