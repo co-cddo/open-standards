@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+{% include head.html %}
+<body>
+	<div class="app-pane">
+		<div class="app-pane__header">
+			<a href="#content" class="skip-link">Skip to main content</a>
+
+			<header class="header header--full-width">
+			<div class="header__container">
+				<div class="header__brand">
+
+				<!--
+					<span class="govuk-logo">
+						<img class="govuk-logo"
+							src="/images/gov.uk_logotype_crown-2x.png"
+							height="32" width="36"
+							style="vertical-align: top;">
+						GOV.UK
+					</span>
+				-->
+
+					<span class="header__title">
+						{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %} - Standards Hub
+					</span>
+				</div>
+			</div>
+		</div>
+		<main class="technical-documentation">
+			{{ content }}
+		</main>
+	</div>
+
+	{% include footer.html %}
+</body>
+</html>
