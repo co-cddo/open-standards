@@ -42,10 +42,7 @@ Try to keep your layout as simple as possible.  The less you use, the better.
 * Use `*italics*` for *italic text*
 * Use `**bold**` for **bold text**
 * Use `` `backtics` `` for a `single line of code`
-* For multi-line code ` ``` 
-use three backticks 
-for a block of code 
-``` `
+* For multi-line code use **three** backticks 
 
 ```
 This is a muti-line
