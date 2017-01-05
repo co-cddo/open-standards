@@ -20,7 +20,7 @@ Challenge owners also have to gain approval from the Open Standards Board if the
 
 The assessment criteria (the assessment questions agreed by the Open Standards Board) should be published on the Standards Hub with the proposals.
 
-The assessment questions are completed in an online form but the [core assessment questions]((#core-assessment-questions) are provided here for reference. The challenge owner answers yes, no or not applicable and provides justification for the answer. An <a href="http://standards.data.gov.uk/relation/1" title="Example of a completed assessment">example</a> of a completed assessment is available.
+The assessment questions are completed in an online form but the [core assessment questions](#core-assessment-questions) are provided here for reference. The challenge owner answers yes, no or not applicable and provides justification for the answer. An <a href="http://standards.data.gov.uk/relation/1" title="Example of a completed assessment">example</a> of a completed assessment is available.
 
 Some questions ask about the organisation that created the standard may be relevant to several challenge owners. The Office of the Chief Technology Officer collects some of this information to help challenge owners. You will therefore find that <a href="http://standards.data.gov.uk/proposed-answers-assessment-questions-relating-maintenance-organisation" title="Proposed answers on org questions">some proposed answers</a> for the standards organisation-related questions are published on the Hub. These should be treated as draft answers and you should check that the information is correct for the particular standards you are referring to.
 
