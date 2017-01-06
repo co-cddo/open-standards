@@ -89,7 +89,9 @@ How you can get involved:
 
 The process of selecting and implementing open standards is open and transparent.
 
-[Suggest a challenge](https://github.com/alphagov/tech-and-data-standards/issues/new) to tell us where using open standards might solve a current problem or improve an existing service. You can also comment on others’ suggestions, and they’ll be able to comment on yours.
+[Suggest a challenge](https://github.com/alphagov/tech-and-data-standards/issues/new) to tell us where using open standards might solve a current problem or improve an existing service. You may included a particular standard as a possible solution when making your suggestion.
+
+You can also comment on others’ suggestions, and they’ll be able to comment on yours.
 
 ### Response stage
 
@@ -100,7 +102,7 @@ Who’s involved:
 
 When a challenge owner has agreed to take up a challenge, we’ll publish it on the Standards Hub. This phase is similar to a [discovery phase](https://www.gov.uk/service-manual/phases/discovery.html) in a digital project.
 
-You can review the [current challenges](https://github.com/alphagov/tech-and-data-standards/issues/) and make a response, suggesting which standards or approaches might help solve a challenge. You can also give feedback on the challenge texts - whether the needs described accurate, for example.
+You can review the [current challenges](https://github.com/alphagov/tech-and-data-standards/issues/) and make a response, suggesting which standards or approaches might help solve a challenge. You can suggest alternative standards if one has been included as a solution in the challenge. You can also give feedback on the challenge texts - whether the needs described accurate, for example.
 
 How you can get involved:
 
