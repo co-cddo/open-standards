@@ -4,7 +4,25 @@ title: Challenge Owners
 permalink: /challenge-owners
 ---
 
-Challenge owners are appointed by the open standards team. They lead the work to develop proposals, carry out assessments and research, and draft standards profiles in response to challenges on the Standards Hub.
+We need Challenge owners to lead the work in finding solutions to challenges (issues) posted on the Hub. A challenge owner can be the person who made a challenge suggestion or suggested a standard as a solution. Making a suggestion does not bind you to becoming a challenge owner. It is a great opportunity to help make things better in government IT.
+
+Challenge owners are volunteers appointed by the open standards team. They lead the work to develop proposals, carry out assessments and research, and draft standards profiles in response to challenges on the Standards Hub.
+
+As a challenge owner you should have experience in the area described by the challenge and able to work with stakeholders to find a solution. You will not be on your own as a challenge owner.
+
+The main tasks for challenge owners are to:
+* select standards from their own research and responses from hub users
+* lead workshops and discussions with stakeholders to establish user needs 
+* create proposals that explain how a standard meets the criteria of a challenge
+* answer assessment questions about the openness of a standard and the organisation that developed it
+* take a proposal and assessment to the panel for evaluation
+* take the final proposal to the Open Standards Board for approval
+* write the final standard profile agreed by the Board
+* publicise the work with blog posts and other communications
+* assist implementers with guidance
+
+The open standards team and the standards panel are available to work with you. The team will meet with you to explain the role when you start, guide you through each stage and will assist in assessing standards.The standards panel can form working groups to help with the writing of proposals. 
+
 
 Resources will be collected together here to help challenge owners throughout each phase whilst they work towards selecting open standards for government IT.
 
