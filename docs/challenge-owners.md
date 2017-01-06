@@ -21,26 +21,21 @@ The main tasks for challenge owners are to:
 * publicise the work with blog posts and other communications
 * assist implementers with guidance
 
-The open standards team and the standards panel are available to work with you. The team will meet with you to explain the role when you start, guide you through each stage and will assist in assessing standards.The standards panel can form working groups to help with the writing of proposals. 
-
+The open standards team and the standards panel are available to work with you. The team will meet with you to explain the role when you start, guide you through each stage and will assist in assessing standards. The standards panel can form working groups to help with the writing of proposals. 
 
 Resources will be collected together here to help challenge owners throughout each phase whilst they work towards selecting open standards for government IT.
 
 ## Assessing standards in proposals
 
-A challenge owner must assess each of the standards associated with a proposal.
-
-Before doing that, the challenge owner has to gain approval from the Open Standards Board on the criteria for assessing the standards within their proposals. This should be based on the list of [core assessment questions](#core-assessment-questions).
+A challenge owner must assess each of the standards associated with a proposal. This should be based on the list of [core assessment questions](#core-assessment-questions).
 
 Challenge owners have the option to suggest to the Board that some of the questions are not applicable for the proposal(s) associated with their challenge. They can also suggest adding other questions. The questions for each of the standards in all of the proposals for a particular challenge must be identical so that a fair comparison can be made.
-
-Challenge owners also have to gain approval from the Open Standards Board if they propose that any questions should be &lsquo;knock-out&rsquo; questions for the standards that feature in their proposals. A &lsquo;no&rsquo; response to a question designated as a knock-out question means that the standard is not suitable for use in that context so no further assessment of the standard will be carried out.
 
 The assessment criteria (the assessment questions agreed by the Open Standards Board) should be published on the Standards Hub with the proposals.
 
 The assessment questions are completed in an online form but the [core assessment questions](#core-assessment-questions) are provided here for reference. The challenge owner answers yes, no or not applicable and provides justification for the answer. An <a href="http://standards.data.gov.uk/relation/1" title="Example of a completed assessment">example</a> of a completed assessment is available.
 
-Some questions ask about the organisation that created the standard may be relevant to several challenge owners. The Office of the Chief Technology Officer collects some of this information to help challenge owners. You will therefore find that <a href="http://standards.data.gov.uk/proposed-answers-assessment-questions-relating-maintenance-organisation" title="Proposed answers on org questions">some proposed answers</a> for the standards organisation-related questions are published on the Hub. These should be treated as draft answers and you should check that the information is correct for the particular standards you are referring to.
+Some questions ask about the organisation that created the standard may be relevant to several challenge owners. The open standards team collects some of this information to help challenge owners. You will therefore find that <a href="http://standards.data.gov.uk/proposed-answers-assessment-questions-relating-maintenance-organisation" title="Proposed answers on org questions">some proposed answers</a> for the standards organisation-related questions are published on the Hub. These should be treated as draft answers and you should check that the information is correct for the particular standards you are referring to.
 
 ## Core assessment questions
 
