@@ -11,6 +11,7 @@ Challenge owners are volunteers appointed by the open standards team. They lead 
 As a challenge owner you should have experience in the area described by the challenge and able to work with stakeholders to find a solution. You will not be on your own as a challenge owner.
 
 The main tasks for challenge owners are to:
+
 * select standards from their own research and responses from hub users
 * lead workshops and discussions with stakeholders to establish user needs 
 * create proposals that explain how a standard meets the criteria of a challenge
