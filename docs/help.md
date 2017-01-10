@@ -61,7 +61,7 @@ Use the `permalink:` from the page configuration
 
 * `This is a link to [the help page](help)`.
 
-The bit in `[]` is what the user sees, the bit in `()` is where it links to.
+The bit in `[]` is what the user sees, the bit in `()` is where it links to.  There is **no space** between the `]` and `(`
 
 The links are case sensitive.
 
