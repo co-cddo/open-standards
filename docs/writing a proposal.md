@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Writing proposal guide
-permalink: /Writing-proposals
+permalink: /writing-proposals
 ---
 
 ## What is a proposal?
