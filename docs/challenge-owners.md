@@ -14,7 +14,7 @@ The main tasks for challenge owners are to:
 
 * select standards from their own research and responses from hub users
 * lead workshops and discussions with stakeholders to establish user needs 
-* create [proposals] (https://github.com/alphagov/tech-and-data-standards/blob/master/docs/challenge-owners.md)that explain how a standard meets the criteria of a challenge
+* create [proposals] (https://github.com/alphagov/tech-and-data-standards/blob/master/docs/challenge-owners.md) that explain how a standard meets the criteria of a challenge
 * answer assessment questions about the openness of a standard and the organisation that developed it
 * take a proposal and assessment to the panel for evaluation
 * take the final proposal to the Open Standards Board for approval
