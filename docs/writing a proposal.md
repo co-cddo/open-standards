@@ -25,7 +25,7 @@ Include who the users of this standard are and what their specific needs are.
 
 Example: Users in the context of this proposal include citizens, businesses and delivery partners who need to share information with government in editable formats.
 
-###Achieving the expected benefits:
+### Achieving the expected benefits:
 
 How this approach would aim to realise the benefits for users, and the operational, social or environmental benefits that the challenge describes.
 Explain the outcomes that would be achieved for the challenge to solved.
@@ -52,4 +52,4 @@ Example: Existing documents should be migrated to the formats specified in this 
 ## Changes required for the profile
 
 The last version of the proposal which is approved by the board is re-written as a profile.
-The wording changes - removing mention of proposal and using precise terms see examples [here] (https://www.gov.uk/government/publications/open-standards-for-government) and in this [IETF] (https://www.ietf.org/rfc/rfc2119.txt) document
+The wording changes - removing mention of proposal and using precise terms see examples [here](https://www.gov.uk/government/publications/open-standards-for-government) and in this [IETF](https://www.ietf.org/rfc/rfc2119.txt) document
