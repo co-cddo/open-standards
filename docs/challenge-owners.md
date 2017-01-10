@@ -14,7 +14,7 @@ The main tasks for challenge owners are to:
 
 * select standards from their own research and responses from hub users
 * lead workshops and discussions with stakeholders to establish user needs 
-* create proposals that explain how a standard meets the criteria of a challenge
+* create [proposals] (https://github.com/alphagov/tech-and-data-standards/blob/master/docs/challenge-owners.md)that explain how a standard meets the criteria of a challenge
 * answer assessment questions about the openness of a standard and the organisation that developed it
 * take a proposal and assessment to the panel for evaluation
 * take the final proposal to the Open Standards Board for approval
@@ -22,13 +22,13 @@ The main tasks for challenge owners are to:
 * publicise the work with blog posts and other communications
 * assist implementers with guidance
 
-The open standards team and the standards panel are available to work with you. The team will meet with you to explain the role when you start, guide you through each stage and will assist in assessing standards. The standards panel can form working groups to help with the writing of proposals. 
+The open standards team and the standards panel are available to work with you. The team will meet with you to explain the role when you start, guide you through each stage and will assist in assessing standards. The standards panel can form working groups to help with the writing of [proposals](#challenge-owners.md). 
 
 Resources will be collected together here to help challenge owners throughout each phase whilst they work towards selecting open standards for government IT.
 
 ## Assessing standards in proposals
 
-A challenge owner must assess each of the standards associated with a proposal. This should be based on the list of [core assessment questions](#core-assessment-questions).
+A challenge owner must assess each of the standards associated with a proposal. This should be based on the list of [core assessment questions](https://github.com/alphagov/tech-and-data-standards/blob/master/docs/challenge-owners.md).
 
 Challenge owners have the option to suggest to the Board that some of the questions are not applicable for the proposal(s) associated with their challenge. They can also suggest adding other questions. The questions for each of the standards in all of the proposals for a particular challenge must be identical so that a fair comparison can be made.
 
