@@ -64,13 +64,9 @@ There are four phases in our approach to selecting and implementing open standar
 
 ## Suggestion Stage
 
-Who’s involved: | ![alt text](https://github.com/alphagov/tech-and-data-standards/blob/master/docs/images/user-icon.png) ![alt text](https://github.com/alphagov/tech-and-data-standards/blob/master/docs/images/gov-tech-official-icon.png)  |  |  
-:--- | --- | --- |
-Users|  |  |
-Government technology officials|  | 
 
-
-
+Who’s involved:<br/> **Users <br/>Government tech officials**| ![alt text](https://github.com/alphagov/tech-and-data-standards/blob/master/docs/images/user-icon.png) ![alt text](https://github.com/alphagov/tech-and-data-standards/blob/master/docs/images/gov-tech-official-icon.png)  |    
+:--- | --- | 
 
 
 
