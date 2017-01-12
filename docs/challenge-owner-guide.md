@@ -82,7 +82,7 @@ You could suggest a challenge or comment on an existing suggested challenge. You
 
 ## Response phase
 
-Who’s involved:<br/> **Users <br/>Government tech officials**| ![alt text](https://github.com/alphagov/tech-and-data-standards/blob/master/docs/images/user-icon.png) ![alt text](https://github.com/alphagov/tech-and-data-standards/blob/master/docs/images/challenge-owner-icon.png)  |    
+Who’s involved:<br/> **Users <br/>Challenge owner**| ![alt text](https://github.com/alphagov/tech-and-data-standards/blob/master/docs/images/user-icon.png) ![alt text](https://github.com/alphagov/tech-and-data-standards/blob/master/docs/images/challenge-owner-icon.png)  |    
 :--- | --- | 
 
 When you have agreed to take up a challenge, the Open Standards Team will publish the live challenge on the Standards Hub, so that users can respond with ideas. You can see an example of a challenge on the Standards Hub.
@@ -103,7 +103,7 @@ With the help of the Open Standards Team…
 
 ## Propose phase
 
-Who’s involved:<br/> **Users <br/>Government tech officials**| ![alt text](https://github.com/alphagov/tech-and-data-standards/blob/master/docs/images/user-icon.png) ![alt text](https://github.com/alphagov/tech-and-data-standards/blob/master/docs/images/challenge-owner-icon.png) ![alt text](https://github.com/alphagov/tech-and-data-standards/blob/master/docs/images/standards-panel-icon.png)  |    
+Who’s involved:<br/> **Users <br/>Challenge owner <br/> Standards panel** | ![alt text](https://github.com/alphagov/tech-and-data-standards/blob/master/docs/images/user-icon.png) ![alt text](https://github.com/alphagov/tech-and-data-standards/blob/master/docs/images/challenge-owner-icon.png) ![alt text](https://github.com/alphagov/tech-and-data-standards/blob/master/docs/images/standards-panel-icon.png)  |    
 :--- | --- |
 
 You will then need to consider the responses youve received to the challenge, in addition to your own research, pulling together some options to develop further. These are known as proposals. You could prepare more than one proposal if there are several ideas that you think might work. 
@@ -128,8 +128,11 @@ In exceptional circumstances, if you are unable to resolve a difference of opini
 * Work with the standards panel to evaluate your proposal(s). Your response to a set of evaluation questions and the proposed recommendation, once it has been agreed with the standards panel, will be published on the Standards Hub. If the standards panel does not agree to submit your recommendation, they may ask you to carry out more research, returning to an earlier stage of the process.
 * Publish a draft standards proposal. Include the open standards that you are recommending. 
 
-Who’s involved:<br/> **Users <br/>Government tech officials**| ![alt text](https://github.com/alphagov/tech-and-data-standards/blob/master/docs/images/user-icon.png) ![alt text](https://github.com/alphagov/tech-and-data-standards/blob/master/docs/images/challenge-owner-icon.png) ![alt text](https://github.com/alphagov/tech-and-data-standards/blob/master/docs/images/gov-tech-official-icon.png)  |    
+## Implementation phase
+
+Who’s involved:<br/> **Users <br/>Challenge owner <br/> Government technology officials**  | ![alt text](https://github.com/alphagov/tech-and-data-standards/blob/master/docs/images/user-icon.png) ![alt text](https://github.com/alphagov/tech-and-data-standards/blob/master/docs/images/challenge-owner-icon.png) ![alt text](https://github.com/alphagov/tech-and-data-standards/blob/master/docs/images/gov-tech-official-icon.png)  |    
 :--- | --- |
+
 
 ## What you should do during the implementation phase
 
