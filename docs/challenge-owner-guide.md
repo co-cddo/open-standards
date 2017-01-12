@@ -68,6 +68,87 @@ There are four phases in our approach to selecting and implementing open standar
 Who’s involved:<br/> **Users <br/>Government tech officials**| ![alt text](https://github.com/alphagov/tech-and-data-standards/blob/master/docs/images/user-icon.png) ![alt text](https://github.com/alphagov/tech-and-data-standards/blob/master/docs/images/gov-tech-official-icon.png)  |    
 :--- | --- | 
 
+We’re trying to find out what problems users of government services face that open standards can help to fix. 
+
+The first stage of this is asking users for suggestions on what these problems are. Just a few sentences about what the problem is, what the needs are and what the benefits might be is enough to get us started. The suggestion may also recommend a particular standard be adopted to meet a user need in government IT.
+
+The Triage Panel, a group of technology officers in government consider these suggestions and look at the benefits that these might deliver. They may decide to take up the suggestion. If they do, they’ll work with the Open Standards team to identify and appoint someone to take it forward - a challenge owner.
+
+## What challenge owners should do during the suggestions phase
+
+There is no specific role for you at this stage as no challenge owner will yet have been appointed. However, as someone with an interest in the area, you might want to keep an eye on the Standards Hub for any suggestions that relate to your expertise.
+
+You could suggest a challenge or comment on an existing suggested challenge. You may also want to get in touch if you’d like us to consider you as a potential challenge owner if a particular suggested challenge is taken forward.
+
+## Response phase
+
+Who’s involved:<br/> **Users <br/>Government tech officials**| ![alt text](https://github.com/alphagov/tech-and-data-standards/blob/master/docs/images/user-icon.png) ![alt text](https://github.com/alphagov/tech-and-data-standards/blob/master/docs/images/challenge-owner-icon.png)  |    
+:--- | --- | 
+
+When you have agreed to take up a challenge, the Open Standards Team will publish the live challenge on the Standards Hub, so that users can respond with ideas. You can see an example of a challenge on the Standards Hub.
+
+## What you should do during the Response phase
+With the help of the Open Standards Team…
+
+* Agree a window of time for responses and comments. We’ll need to publish a closing date on the Standards Hub to let everyone know when the challenge phase will end. We suggest around 4 weeks from when the challenge is published.
+* Draft the challenge based on the suggestions received through the Standards Hub and feedback from the government technology officials who reviewed the suggestions. You should write in plain English using the Government Digital Service [style guide](https://www.gov.uk/service-manual/content-designers/transactions-style-guide.html) and should focus on the user needs that the challenge is addressing. Publish the challenge.
+* Identify your users and your stakeholders and investigate the best channels you can use to reach them.
+* Seek and encourage responses to your challenge through the channels you’ve identified. Ask for ideas about how to fix the problem. For instance, which open standards should we use?
+* Monitor responses submitted to the Standards Hub and engage with your users by commenting on and debating ideas. If they ask for clarification, provide it if you are able to at this stage - it may be something that can only be answered as your work progresses. If so, let them know that.
+* Plan pilots, workshops, working groups, testing or any other events that you might need to inform the next phases of your work.
+* Consider whether you have enough material to develop proposals. Carry out any further research you might need and address any clarifications or refinements relating to the scope or the needs published in the challenge. 
+* Consider whether the standards suggested meet the UK government [definition](https://www.gov.uk/government/publications/open-standards-principles/open-standards-principles#open-standard---definition) of open standards for us in government IT. 
+* You may seek advice from the Open Standards Team and the standards panel
+
+
+## Propose phase
+
+Who’s involved:<br/> **Users <br/>Government tech officials**| ![alt text](https://github.com/alphagov/tech-and-data-standards/blob/master/docs/images/user-icon.png) ![alt text](https://github.com/alphagov/tech-and-data-standards/blob/master/docs/images/challenge-owner-icon.png) ![alt text](https://github.com/alphagov/tech-and-data-standards/blob/master/docs/images/standards-panel-icon.png)  |    
+:--- | --- |
+
+You will then need to consider the responses youve received to the challenge, in addition to your own research, pulling together some options to develop further. These are known as proposals. You could prepare more than one proposal if there are several ideas that you think might work. 
+
+You can see an example of a proposal on the Standards Hub - it should describe the approach you are suggesting and the standards that are needed in that context.
+
+## What you should do during the propose phase 
+
+* Assessing the standards within your proposal(s). This should be based on the list of core questions. You have the option to suggest to the Board that some of the questions are not applicable for the proposal(s) associated with your challenge. The Open Standards Team will lead in assessing the standards and will confer with you.
+* Form working groups if required. Invite experts to events that you have planned. The Open Standards Team can provide you with contact details for any Hub users who have been involved in the online discussion about your challenge, if they have indicated a willingness to get more involved. Be clear with them about what your are expecting in terms of tasks and the time they might need to commit.
+* Publish a note of any events/meetings and declarations of interest from attendees. These notes should be concise and written in plain English using the Government Digital Service style guide.
+
+Once you have defined the proposals you will need to research them in detail, assessing the proposed standards, and investigating if the approach meets the needs set out in the challenge. The standards panel will evaluate your work and submit their findings to the Open Standards Board, which will make the final decision on whether to accept a recommendation. 
+
+In exceptional circumstances, if you are unable to resolve a difference of opinion with the standards panel on the recommendation that should be made to the Open Standards Board, you may reject the standards panel’s advice. If this happens, both you and a chair of the standards panel will be able to present at an Open Standards Board meeting where both opinions will be considered.
+
+
+## Before the standards panel meet
+
+* Analyse your research, the outcomes of any events or pilots you have run and your assessments of standards.
+* If you began with more than one proposal and later decide that some are less likely to meet the needs described in the challenge, you may choose to focus on fewer proposals. You should seek advice from the standards panel if you are considering this and publish your reasoning on the Standards Hub.
+* Work with the standards panel to evaluate your proposal(s). Your response to a set of evaluation questions and the proposed recommendation, once it has been agreed with the standards panel, will be published on the Standards Hub. If the standards panel does not agree to submit your recommendation, they may ask you to carry out more research, returning to an earlier stage of the process.
+* Publish a draft standards proposal. Include the open standards that you are recommending. 
+
+Who’s involved:<br/> **Users <br/>Government tech officials**| ![alt text](https://github.com/alphagov/tech-and-data-standards/blob/master/docs/images/user-icon.png) ![alt text](https://github.com/alphagov/tech-and-data-standards/blob/master/docs/images/challenge-owner-icon.png) ![alt text](https://github.com/alphagov/tech-and-data-standards/blob/master/docs/images/gov-tech-official-icon.png)  |    
+:--- | --- |
+
+## What you should do during the implementation phase
+
+* Encourage government bodies to implement the agreed standards profile.
+* Provide guidance for technology leaders who are responsible for implementation.
+* Along with other users, you can report through the Standards Hub if there are any issues with the adopted standards profile.
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
