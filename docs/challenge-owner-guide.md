@@ -108,7 +108,8 @@ Who’s involved:<br/> **Users <br/>Challenge owner <br/> Standards panel** | ![
 
 You will then need to consider the responses youve received to the challenge, in addition to your own research, pulling together some options to develop further. These are known as proposals. You could prepare more than one proposal if there are several ideas that you think might work. 
 
-You can see an example of a proposal on the Standards Hub - it should describe the approach you are suggesting and the standards that are needed in that context.
+You can see an example of a proposal on the Standards Hub - it should describe the approach you are suggesting and the standards that are needed in that context. There is also a [guide](https://github.com/alphagov/tech-and-data-standards/blob/master/docs/writing%20a%20proposal.md) to help with writing a proposal.
+
 
 ## What you should do during the propose phase 
 
