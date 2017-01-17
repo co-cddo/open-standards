@@ -1,2 +1,3 @@
 # Dummy file
-delete when old challnges have been added.
+delete this file when old challnges have been added.
+Waiting for old hub content to be exported.
