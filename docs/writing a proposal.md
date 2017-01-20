@@ -52,4 +52,4 @@ Example: Existing documents should be migrated to the formats specified in this 
 ## Changes required for the profile
 
 The last version of the proposal which is approved by the board is re-written as a profile.
-The wording changes - removing mention of proposal and using precise terms see examples [here](https://www.gov.uk/government/publications/open-standards-for-government) and in this [IETF](https://www.ietf.org/rfc/rfc2119.txt) document
+The wording changes - removing mention of proposal and using precise terms see examples [here](https://www.gov.uk/government/publications/open-standards-for-government) and in this [IETF](https://www.ietf.org/rfc/rfc2119.txt) document.
