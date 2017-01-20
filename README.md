@@ -8,14 +8,15 @@ These will follow [open standards principles](https://www.gov.uk/government/publ
 We need you to suggest areas where users of government services face problems that might be solved by open standards. We'll assess suggestions as they come in, look at their possible benefits and read other users’ comments on them.
 
 #### How you can get involved:
+visit the [issues](https://github.com/alphagov/tech-and-data-standards/issues) page where you can...
 - read and comment other people’s suggestions
 - make a suggestion
  
 ### 2. Response stage
 A panel of technology experts will choose some suggestions to become challenges and appoint a [[challenge owner|Challenge owners]] to act as a champion for each. We’ll publish those here so users can respond to them by recommending standards or approaches that might solve them.
 
-### How you can get involved:
-- read current challenges other people’s responses
+#### How you can get involved:
+- read [current challenges](https://github.com/alphagov/tech-and-data-standards/issues) other people’s responses
 - make or comment a response (offer a solution)
 
 ### 3. Proposal stage
