@@ -8,7 +8,7 @@ permalink: /writing-proposals
 
 A document that is published on the Hub and presented to the Standards Panel and Board. The proposal states which standards have been chosen by a challenge owner and how the standards meets the user needs of the challenge, its benefits and functional needs. When a proposal is published Hub users can make comments on it for a set period of time, usually a month. A proposal should contain enough detail to act as the basis of a guide for adopting the standard.
 
-Standards proposals develop as a challenge moves through the process, incorporating suggestions from Hub contributors, the Standards Panel and the Board. The final version is called a Profile and is publised on [GOV.UK](https://www.gov.uk/government/publications/open-standards-for-government) See examples of proposal here <link to new hub proposals folder>
+Standards proposals develop as a challenge moves through the process, incorporating suggestions from Hub contributors, the Standards Panel and the Board. The final version is called a Profile and is publised on [GOV.UK](https://www.gov.uk/government/publications/open-standards-for-government).
 
 ## Sections in the proposal
 
