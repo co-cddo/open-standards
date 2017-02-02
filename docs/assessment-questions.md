@@ -4,6 +4,8 @@ title: assessment-questions
 permalink: /assessment-questions
 ---
 
+These are the core questions that are considered by a challenge owner when assessing standards in proposals. The questions and answers are published online and provided here for reference. 
+
 ## Applicability
 Does the formal specification address and facilitate interoperability between public administrations?
 
