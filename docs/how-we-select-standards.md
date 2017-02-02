@@ -121,7 +121,7 @@ The challenge owner will consider responses to the challenge, selecting one or m
 The Standards Hub will publish:
 
 *   proposals, which you can comment on to help challenge owners develop
-*   the criteria for assessing proposals, which will be agreed with the standards panel or the Open Standards Board and also published on the hub
+*   the criteria for [assessing](https://github.com/alphagov/tech-and-data-standards/blob/master/docs/assessment-questions.md) proposals, which will be agreed with the standards panel or the Open Standards Board and also published on the hub
 *   details of any workshops or other events planned to help investigate the proposals and to inform the next phase of work - the assessment stage
 
 The challenge owner will:
