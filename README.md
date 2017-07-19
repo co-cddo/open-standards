@@ -46,8 +46,8 @@ The board has specific [Terms of Reference](Open Standards Board Terms of Refere
 
 ### Minutes of previous meetings
 
-We maintain [minutes of all previous meetings](Meetings).
+We maintain [minutes of all previous meetings](_meetings).
 
 The most recent meeting was:
 
-* [2016-09-20 Open Standards Panel meeting](2016‐09‐20-Open-Standards-Panel-meeting)
+* [2016-09-20 Open Standards Banel meeting](2017‐06‐20-Open-Standards-Boad-meeting)
