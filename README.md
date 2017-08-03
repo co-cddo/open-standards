@@ -49,5 +49,4 @@ The board has specific [Terms of Reference](Open Standards Board Terms of Refere
 We maintain [minutes of all previous meetings](https://github.com/alphagov/open-standards/tree/master/docs/_meetings).
 
 The most recent meeting was:
-
-* [2016-09-20 Open Standards Board meeting](open-standards/docs/_meetings/2017-6-20-open-standards-board-meeting.md)
+* [2017-06-20 Open Standards Board meeting](https://github.com/alphagov/open-standards/blob/master/docs/_meetings/2017-6-20-open-standards-board-meeting.md)
