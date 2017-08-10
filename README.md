@@ -13,22 +13,22 @@ visit the [issues](https://github.com/alphagov/tech-and-data-standards/issues) p
 - make a suggestion
  
 ### 2. Response stage
-A panel of technology experts will choose some suggestions to become challenges and appoint a [[challenge owner|Challenge owners]] to act as a champion for each. We’ll publish those here so users can respond to them by recommending standards or approaches that might solve them.
+A panel of technology experts will choose some suggestions to become challenges and appoint a [challenge owner](https://www.gov.uk/guidance/who-selects-open-standards#challenge-owner) to act as a champion for each. We’ll publish those here so users can respond to them by recommending standards or approaches that might solve them.
 
 #### How you can get involved:
 - read [current challenges](https://github.com/alphagov/tech-and-data-standards/issues) other people’s responses
 - make or comment a response (offer a solution)
 
 ### 3. Proposal stage
-The [[challenge owner|Challenge owners]] will evaluate responses and draw on them to create proposals for solving each challenge. You can comment on these proposals, which will help the challenge owner and standards panel to assess them and identify one that they will submit to the Open Standards Panel for review.
+The [challenge owner](https://www.gov.uk/guidance/who-selects-open-standards#challenge-owner) will evaluate responses and draw on them to create proposals for solving each challenge. You can comment on these proposals, which will help the challenge owner and standards panel to assess them and identify one that they will submit to the Open Standards Panel for review.
 
 ### How you can get involved:
-Become a [[Challenge owner|Challenge owners]].
+Become a [challenge owner](https://www.gov.uk/guidance/who-selects-open-standards#challenge-owner).
 
 ### 4. Solution stage
-The [[Open Standards Board]] will review the proposal and decide whether its approach to solving a challenge and the open standard or collection of standards involved should be adopted across government.
+The [Open Standards Board](https://www.gov.uk/guidance/who-selects-open-standards#open-standards-board) will review the proposal and decide whether its approach to solving a challenge and the open standard or collection of standards involved should be adopted across government.
 
-You can read "[[How we select standards]]" for the full details.
+You can read "[How open standards are selected](https://www.gov.uk/guidance/how-open-standards-are-selected)" for the full details.
 
 ## Accepted Standards
 GOV.UK maintains a [list of approved Open Standards](https://www.gov.uk/government/publications/open-standards-for-government).
@@ -37,9 +37,9 @@ GOV.UK maintains a [list of approved Open Standards](https://www.gov.uk/governme
 
 ## The Open Standards Board
 
-The [[Open Standards Board]] is made up of [[Board members]] who are [appointed](Appointment-as-Open-Standards-Board-Member). They are expert users and drawn from government and not-for-profit organisations as well as volunteers from academia and industry.
+The Open Standards Board is made up of [Board members](https://www.gov.uk/government/groups/open-standards-board#membership) who are appointed. They are expert users and drawn from government and not-for-profit organisations as well as volunteers from academia and industry.
 
-The board has specific [Terms of Reference](Open Standards Board Terms of Reference) and all board members must abide by the [[Terms and Conditions for Appointment as Open Standards Board Member]]
+The board has specific [Terms of Reference](https://www.gov.uk/government/groups/open-standards-board#terms-of-reference) that all board members must abide by.
 
 ## Meetings
 
