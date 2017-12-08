@@ -1,42 +1,75 @@
-# Contributor Covenant Code of Conduct
+# GOV.UK code of conduct
 
-## Our Pledge
+## Our pledge
 
-In the interest of fostering an open and welcoming environment, we as contributors and maintainers pledge to making participation in our project and our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, or sexual identity and orientation.
+In order to create an open and welcoming environment, we as contributors and maintainers pledge to make participation in our project and our community a harassment-free experience for everyone, regardless of: 
 
-## Our Standards
+* age
+* body size
+* disability
+* ethnicity
+* gender identity and expression
+* level of experience
+* nationality
+* personal appearance
+* race
+* religion, sexual identity and orientation
 
-Examples of behavior that contributes to creating a positive environment include:
+## Our standards
 
-* Using welcoming and inclusive language
-* Being respectful of differing viewpoints and experiences
-* Gracefully accepting constructive criticism
-* Focusing on what is best for the community
-* Showing empathy towards other community members
+You can contribute to creating a positive environment in many ways. For example you can: 
 
-Examples of unacceptable behavior by participants include:
+* use welcoming and inclusive language
+* be respectful of differing viewpoints and experiences
+* accept constructive criticism gracefully
+* focus on what is best for the community
+* show empathy towards other community members
 
-* The use of sexualized language or imagery and unwelcome sexual attention or advances
-* Trolling, insulting/derogatory comments, and personal or political attacks
-* Public or private harassment
-* Publishing others' private information, such as a physical or electronic address, without explicit permission
-* Other conduct which could reasonably be considered inappropriate in a professional setting
+You should not: 
 
-## Our Responsibilities
+* use sexualised language or imagery
+* make unwelcome sexual advances
+* troll, and make insulting or derogatory comments
+* make personal or political attacks
+* harass others, in public or private
+* publish others' private information, such as a physical or electronic address, without explicit permission
+* engage in any other conduct which could reasonably be considered inappropriate in a professional setting
 
-Project maintainers are responsible for clarifying the standards of acceptable behavior and are expected to take appropriate and fair corrective action in response to any instances of unacceptable behavior.
 
-Project maintainers have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that are not aligned to this Code of Conduct, or to ban temporarily or permanently any contributor for other behaviors that they deem inappropriate, threatening, offensive, or harmful.
+## Our responsibilities
+
+As project maintainers, we are responsible for clarifying the standards of acceptable behaviour and we are expected to take appropriate and fair corrective action in response to any instances of unacceptable behaviour.
+
+We have the right and responsibility to remove, edit, or reject:
+
+* comments
+* commits
+* code
+* wiki edits
+* issues
+* other contributions that are not aligned to this code of conduct
+
+We also reserve the right to temporarily or permanently ban any contributor for other behaviours we deem inappropriate, threatening, offensive, or harmful.
+
 
 ## Scope
 
-This Code of Conduct applies both within project spaces and in public spaces when an individual is representing the project or its community. Examples of representing a project or community include using an official project e-mail address, posting via an official social media account, or acting as an appointed representative at an online or offline event. Representation of a project may be further defined and clarified by project maintainers.
+This code of conduct applies whenever you are representing the project or community. For example you may be:
+
+* working in a project space online or in the public
+* using an official project email address
+* posting via an official social media account
+* participating in an online or offline event
+
+Project maintainers may further define and clarify representation of a project.
+
 
 ## Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at openstandards@digital.cabinet-office.gov.uk. The project team will review and investigate all complaints, and will respond in a way that it deems appropriate to the circumstances. The project team is obligated to maintain confidentiality with regard to the reporter of an incident. Further details of specific enforcement policies may be posted separately.
+You should report any instances of abusive, harassing, or otherwise unacceptable behaviour to the project team at openstandards@digital.cabinet-office.gov.uk. The project team will review and investigate all complaints, and will respond in a way that it deems appropriate to the circumstances. The project team is obligated to maintain the anonymity of the reporter of an incident. We may post further details of specific enforcement policies separately.
 
-Project maintainers who do not follow or enforce the Code of Conduct in good faith may face temporary or permanent repercussions as determined by other members of the project's leadership.
+Project maintainers who do not follow or enforce this code of conduct in good faith may face temporary or permanent consequences. These will be determined by members of the project's leadership.
+
 
 ## Attribution
 
