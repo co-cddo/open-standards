@@ -13,7 +13,8 @@ In order to create an open and welcoming environment, we as contributors and mai
 * nationality
 * personal appearance
 * race
-* religion, sexual identity and orientation
+* religion
+* sexual identity and orientation
 
 ## Our standards
 
