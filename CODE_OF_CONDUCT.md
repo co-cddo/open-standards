@@ -18,30 +18,30 @@ In order to create an open and welcoming environment, we as contributors and mai
 
 ## Our standards
 
-You can contribute to creating a positive environment in many ways. For example you can: 
+######You can contribute to creating a positive environment in many ways. For example you can: 
 
-* use welcoming and inclusive language
-* be respectful of differing viewpoints and experiences
-* accept constructive criticism gracefully
-* focus on what is best for the community
-* show empathy towards other community members
+1. use welcoming and inclusive language
+2. be respectful of differing viewpoints and experiences
+3. accept constructive criticism gracefully
+4. focus on what is best for the community
+5. show empathy towards other community members
 
-You should not: 
+######You should not: 
 
-* use sexualised language or imagery
-* make unwelcome sexual advances
-* troll, and make insulting or derogatory comments
-* make personal or political attacks
-* harass others, in public or private
-* publish others' private information, such as a physical or electronic address, without explicit permission
-* engage in any other conduct which could reasonably be considered inappropriate in a professional setting
+1. use sexualised language or imagery
+2. make unwelcome sexual advances
+3. troll, and make insulting or derogatory comments
+4. make personal or political attacks
+5. harass others, in public or private
+6. publish others' private information, such as a physical or electronic address, without explicit permission
+7. engage in any other conduct which could reasonably be considered inappropriate in a professional setting
 
 
 ## Our responsibilities
 
 As project maintainers, we are responsible for clarifying the standards of acceptable behaviour and we are expected to take appropriate and fair corrective action in response to any instances of unacceptable behaviour.
 
-We have the right and responsibility to remove, edit, or reject:
+We have the right and responsibility to ######remove, edit, or reject:
 
 * comments
 * commits
