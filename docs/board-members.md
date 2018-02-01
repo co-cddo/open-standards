@@ -15,7 +15,7 @@ The Board members are:
 * Edafe Onerhime, Consultant Data Scientist
 * Jeni Tennison, CEO, Open Data Institute
 * John Sheridan, Digital Director, The National Archives
-* Matthew Dovey, Programme Director, Jisc
+* Matthew Dovey, Head of e-Infrastructure Strategy, Jisc
 * Paul Downey, Technical Architect, Government Digital Service
 * Simon Kerridge, Director of Research Services, University of Kent/CASRAI
 * Zaheda Bhorat , Head of Open Source & Strategy, Amazon	
