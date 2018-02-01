@@ -7,15 +7,24 @@ permalink: /board-members
 The Board members are:
 
 * Liam Maxwell, National Technology Advisor (Chair)
-* Adam Cooper, Bolton University
-* Matthew Dovey, Jisc
-* Paul Downey, Government Digital Service
-* Lee Edwards, London Borough of Redbridge
-* John Sheridan, The National Archives
-* Jeni Tennison, Open Data Institute
-* Adrian Hepworth, Atos
-* Chris Francis, SAP
-* Daniel Appelquist,  Samsung Research Institute (UK)
+* Nick Harrison, Director of Service Design and Assurance, Government Digital Service (Deputy Chair)
+* Adrian Hepworth, Chief Architect UK&I, Worldline Global
+* Daniel Appelquist, Director of Web Advocacy, Samsung Research Institute	
+* Dave Cridland, Technical Architect, Surevine Ltd
+* Dr Chris Francis, Director Government Relations, SAP
+* Edafe Onerhime, Consultant Data Scientist
+* Jeni Tennison, CEO, Open Data Institute
+* John Sheridan, Digital Director, The National Archives
+* Matthew Dovey, Programme Director, Jisc
+* Paul Downey, Technical Architect, Government Digital Service
+* Simon Kerridge, Director of Research Services, University of Kent/CASRAI
+* Zaheda Bhorat , Head of Open Source & Strategy, Amazon	
+
+
+
+
+
+
 
 ## Biographies
 
