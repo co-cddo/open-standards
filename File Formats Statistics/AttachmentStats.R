@@ -52,6 +52,9 @@ all$`File type` <- file_types
 rm(splitter)
 rm(file_types)
 
+# Save the nicely formatted version
+write.csv(all, file="Attachments Formatted.csv", na="", row.names = FALSE)
+
 # Which files do organisations upload?
 file_types_per_org <- plyr::count(all, c("Organisation", "`File type`"))
 file_types_per_org <- dcast(file_types_per_org, Organisation ~ File.type)
