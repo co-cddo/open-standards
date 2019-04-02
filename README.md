@@ -20,7 +20,7 @@ A panel of technology experts will choose some suggestions to become challenges 
 - make or comment a response (offer a solution)
 
 ### 3. Proposal stage
-The [challenge owner](https://www.gov.uk/guidance/who-selects-open-standards#challenge-owner) will evaluate responses and draw on them to create proposals for solving each challenge. You can comment on these proposals, which will help the challenge owner and standards panel to assess them and identify one that they will submit to the Open Standards Panel for review.
+The [challenge owner](https://www.gov.uk/guidance/who-selects-open-standards#challenge-owner) will evaluate responses and draw on them to create proposals for solving each challenge. You can comment on these proposals, which will help the challenge owner and open standards community to assess them and identify one that they will submit to the Open Standards Board for approval.
 
 ### How you can get involved:
 Become a [challenge owner](https://www.gov.uk/guidance/who-selects-open-standards#challenge-owner).
@@ -46,8 +46,7 @@ The board has specific [Terms of Reference](https://www.gov.uk/government/groups
 
 ### Minutes of previous meetings
 
-We maintain [minutes of all previous meetings](https://github.com/alphagov/open-standards/tree/master/docs/_meetings).
+We maintain an archive of [minutes from previous meetings](https://github.com/alphagov/open-standards/tree/master/docs/_meetings).
 
-The most recent meeting was:
+The most recent minutes are available [here](https://www.gov.uk/government/groups/open-standards-board) on the Open Standards Board GOV.UK page
 
-* [2017-06-20 Open Standards Board meeting](https://github.com/alphagov/open-standards/blob/master/docs/_meetings/2017-6-20-open-standards-board-meeting.md)
