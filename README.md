@@ -31,7 +31,7 @@ The [Open Standards Board](https://www.gov.uk/guidance/who-selects-open-standard
 You can read "[How open standards are selected](https://www.gov.uk/guidance/how-open-standards-are-selected)" for the full details.
 
 ## Accepted Standards
-GOV.UK maintains a [list of approved Open Standards](https://www.gov.uk/government/publications/open-standards-for-government).
+GOV.UK maintains a [list of compulsory](https://www.gov.uk/government/publications/open-standards-for-government) and [recommended standards](https://www.gov.uk/government/publications/recommended-open-standards-for-government)
 
 ## On-Hold Standards
 
