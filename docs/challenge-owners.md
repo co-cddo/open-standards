@@ -16,13 +16,12 @@ The main tasks for challenge owners are to:
 * lead workshops and discussions with stakeholders to establish user needs 
 * create [proposals](writing-proposals) that explain how a standard meets the criteria of a challenge
 * answer assessment questions about the openness of a standard and the organisation that developed it
-* take a proposal and assessment to the panel for evaluation
 * take the final proposal to the Open Standards Board for approval
 * write the final standard profile agreed by the Board
 * publicise the work with blog posts and other communications
 * assist implementers with guidance
 
-The open standards team and the standards panel are available to work with you. The team will meet with you to explain the role when you start, guide you through each stage and will assist in assessing standards. The standards panel can form working groups to help with the writing of [proposals](#challenge-owners.md). 
+The open standards team are available to work with you. The team will meet with you to explain the role when you start, guide you through each stage and will assist in assessing standards. You can form working groups to help with the writing of [proposals](#challenge-owners.md). 
 
 Resources will be collected together here to help challenge owners throughout each phase whilst they work towards selecting open standards for government IT.
 
